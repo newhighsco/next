@@ -1810,15 +1810,15 @@
   resolved "https://registry.yarnpkg.com/@newhighsco/prettier-config/-/prettier-config-2.3.2.tgz#9f400cca221372fc5b05dec749c59bb5da669a4d"
   integrity sha512-p7QE7Etfr5bzMsVx0gL0kYeI8og7lGKap0CzrzRd+nnBjtanXPPITJd6eoRQYJCUSgSs59i2bhgf/+jiws8Gyw==
 
-"@newhighsco/release-config@1.4.16":
-  version "1.4.16"
-  resolved "https://registry.yarnpkg.com/@newhighsco/release-config/-/release-config-1.4.16.tgz#3d6071d76699be569473898d898d5f4c0de08f35"
-  integrity sha512-Exi9IFPkOTQfwp9vtdGoD++BB8QHH7cs9ccyymK6ObIs3jf+u6x1KEJsbyQmTw359pGVsDeoo4VQ7JdbWX9mxA==
+"@newhighsco/release-config@1.4.17":
+  version "1.4.17"
+  resolved "https://registry.yarnpkg.com/@newhighsco/release-config/-/release-config-1.4.17.tgz#1f881af7f90e319a3f9d5bfca884cfffe1a65c61"
+  integrity sha512-DQs8n17sAtt6WsmZTflF4hMF1EYFW1W+Hy4MhXmW84gMybcRCQiOofiDuv/atBj7HKr19rts8yYEe1ETcM/aog==
   dependencies:
     "@semantic-release/changelog" "6.0.3"
     "@semantic-release/commit-analyzer" "13.0.1"
     "@semantic-release/git" "10.0.1"
-    "@semantic-release/github" "12.0.0"
+    "@semantic-release/github" "12.0.1"
     "@semantic-release/npm" "13.1.1"
     "@semantic-release/release-notes-generator" "14.1.0"
 
@@ -2391,12 +2391,17 @@
   resolved "https://registry.yarnpkg.com/@octokit/openapi-types/-/openapi-types-26.0.0.tgz#a528b560dbc4f02040dc08d19575498d57fff19d"
   integrity sha512-7AtcfKtpo77j7Ts73b4OWhOZHTKo/gGY8bB3bNBQz4H+GRSWqx2yvj8TXRsbdTE0eRmYmXOEY66jM7mJ7LzfsA==
 
-"@octokit/plugin-paginate-rest@^13.0.0":
-  version "13.2.1"
-  resolved "https://registry.yarnpkg.com/@octokit/plugin-paginate-rest/-/plugin-paginate-rest-13.2.1.tgz#7ad36e7732a391e5ce9ce4e23fa8023127a0f162"
-  integrity sha512-Tj4PkZyIL6eBMYcG/76QGsedF0+dWVeLhYprTmuFVVxzDW7PQh23tM0TP0z+1MvSkxB29YFZwnUX+cXfTiSdyw==
+"@octokit/openapi-types@^27.0.0":
+  version "27.0.0"
+  resolved "https://registry.yarnpkg.com/@octokit/openapi-types/-/openapi-types-27.0.0.tgz#374ea53781965fd02a9d36cacb97e152cefff12d"
+  integrity sha512-whrdktVs1h6gtR+09+QsNk2+FO+49j6ga1c55YZudfEG+oKJVvJLQi3zkOm5JjiUXAagWK2tI2kTGKJ2Ys7MGA==
+
+"@octokit/plugin-paginate-rest@^14.0.0":
+  version "14.0.0"
+  resolved "https://registry.yarnpkg.com/@octokit/plugin-paginate-rest/-/plugin-paginate-rest-14.0.0.tgz#44dc9fff2dacb148d4c5c788b573ddc044503026"
+  integrity sha512-fNVRE7ufJiAA3XUrha2omTA39M6IXIc6GIZLvlbsm8QOQCYvpq/LkMNGyFlB1d8hTDzsAXa3OKtybdMAYsV/fw==
   dependencies:
-    "@octokit/types" "^15.0.1"
+    "@octokit/types" "^16.0.0"
 
 "@octokit/plugin-paginate-rest@^9.0.0":
   version "9.2.2"
@@ -2490,12 +2495,19 @@
   dependencies:
     "@octokit/openapi-types" "^24.2.0"
 
-"@octokit/types@^15.0.0", "@octokit/types@^15.0.1":
+"@octokit/types@^15.0.0":
   version "15.0.2"
   resolved "https://registry.yarnpkg.com/@octokit/types/-/types-15.0.2.tgz#fd0efd5af066590585abfa8f1b1167f3139578e6"
   integrity sha512-rR+5VRjhYSer7sC51krfCctQhVTmjyUMAaShfPB8mscVa8tSoLyon3coxQmXu0ahJoLVWl8dSGD/3OGZlFV44Q==
   dependencies:
     "@octokit/openapi-types" "^26.0.0"
+
+"@octokit/types@^16.0.0":
+  version "16.0.0"
+  resolved "https://registry.yarnpkg.com/@octokit/types/-/types-16.0.0.tgz#fbd7fa590c2ef22af881b1d79758bfaa234dbb7c"
+  integrity sha512-sKq+9r1Mm4efXW1FCk7hFSeJo4QKreL/tTbR0rz/qx/r1Oa2VV83LTA/H/MuCOX7uCIJmQVRKBcbmWoySjAnSg==
+  dependencies:
+    "@octokit/openapi-types" "^27.0.0"
 
 "@pkgjs/parseargs@^0.11.0":
   version "0.11.0"
@@ -2622,13 +2634,13 @@
     micromatch "^4.0.0"
     p-reduce "^2.0.0"
 
-"@semantic-release/github@12.0.0", "@semantic-release/github@^12.0.0":
-  version "12.0.0"
-  resolved "https://registry.yarnpkg.com/@semantic-release/github/-/github-12.0.0.tgz#b852703f96cbf9610e056a736c339516c8c27b30"
-  integrity sha512-louWFjzZ+1dogfJTY8IuJuBcBUOTliYhBUYNcomnTfj0i959wtRQbr1POgdCoTHK7ut4N/0LNlYTH8SvSJM3hg==
+"@semantic-release/github@12.0.1", "@semantic-release/github@^12.0.0":
+  version "12.0.1"
+  resolved "https://registry.yarnpkg.com/@semantic-release/github/-/github-12.0.1.tgz#84596fc496abc286698e19c10d9caec4bb81428d"
+  integrity sha512-BSC7Ko6aRPnH8ttVBpd3gC98LTiyPdmrmX4qHilLw5EZqVrXrXwcKp/JKUC5hgm0XpJACR3nPjgbfOjTJ75PIA==
   dependencies:
     "@octokit/core" "^7.0.0"
-    "@octokit/plugin-paginate-rest" "^13.0.0"
+    "@octokit/plugin-paginate-rest" "^14.0.0"
     "@octokit/plugin-retry" "^8.0.0"
     "@octokit/plugin-throttling" "^11.0.0"
     "@semantic-release/error" "^4.0.0"
