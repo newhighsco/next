@@ -5,8 +5,8 @@
   "license": "ISC",
   "private": "true",
   "scripts": {
-    "start": "next dev",
-    "build": "next build"
+    "start": "next dev --webpack",
+    "build": "next build --webpack"
   },
   "dependencies": {
     "@newhighsco/next-plugin-svgr": "*",
