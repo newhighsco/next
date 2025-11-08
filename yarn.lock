@@ -1806,15 +1806,15 @@
   resolved "https://registry.yarnpkg.com/@newhighsco/prettier-config/-/prettier-config-2.3.2.tgz#9f400cca221372fc5b05dec749c59bb5da669a4d"
   integrity sha512-p7QE7Etfr5bzMsVx0gL0kYeI8og7lGKap0CzrzRd+nnBjtanXPPITJd6eoRQYJCUSgSs59i2bhgf/+jiws8Gyw==
 
-"@newhighsco/release-config@1.4.17":
-  version "1.4.17"
-  resolved "https://registry.yarnpkg.com/@newhighsco/release-config/-/release-config-1.4.17.tgz#1f881af7f90e319a3f9d5bfca884cfffe1a65c61"
-  integrity sha512-DQs8n17sAtt6WsmZTflF4hMF1EYFW1W+Hy4MhXmW84gMybcRCQiOofiDuv/atBj7HKr19rts8yYEe1ETcM/aog==
+"@newhighsco/release-config@1.4.18":
+  version "1.4.18"
+  resolved "https://registry.yarnpkg.com/@newhighsco/release-config/-/release-config-1.4.18.tgz#862a2d2de07f886bc651899b02d1e2f4b993a710"
+  integrity sha512-o3N9TbZdnWR3EDpgQ3MGCEsikwARvDRMuG6gE3uP3dQ7GN94jNMN4bUMK7ZHEDDSBlFJ8hsl2+472O9oIMTXOQ==
   dependencies:
     "@semantic-release/changelog" "6.0.3"
     "@semantic-release/commit-analyzer" "13.0.1"
     "@semantic-release/git" "10.0.1"
-    "@semantic-release/github" "12.0.1"
+    "@semantic-release/github" "12.0.2"
     "@semantic-release/npm" "13.1.1"
     "@semantic-release/release-notes-generator" "14.1.0"
 
@@ -2630,10 +2630,10 @@
     micromatch "^4.0.0"
     p-reduce "^2.0.0"
 
-"@semantic-release/github@12.0.1", "@semantic-release/github@^12.0.0":
-  version "12.0.1"
-  resolved "https://registry.yarnpkg.com/@semantic-release/github/-/github-12.0.1.tgz#84596fc496abc286698e19c10d9caec4bb81428d"
-  integrity sha512-BSC7Ko6aRPnH8ttVBpd3gC98LTiyPdmrmX4qHilLw5EZqVrXrXwcKp/JKUC5hgm0XpJACR3nPjgbfOjTJ75PIA==
+"@semantic-release/github@12.0.2", "@semantic-release/github@^12.0.0":
+  version "12.0.2"
+  resolved "https://registry.yarnpkg.com/@semantic-release/github/-/github-12.0.2.tgz#bc1f76e9cd386c5b01a20c3f0606e8eec6b1b93a"
+  integrity sha512-qyqLS+aSGH1SfXIooBKjs7mvrv0deg8v+jemegfJg1kq6ji+GJV8CO08VJDEsvjp3O8XJmTTIAjjZbMzagzsdw==
   dependencies:
     "@octokit/core" "^7.0.0"
     "@octokit/plugin-paginate-rest" "^14.0.0"
@@ -2650,6 +2650,7 @@
     mime "^4.0.0"
     p-filter "^4.0.0"
     tinyglobby "^0.2.14"
+    undici "^7.0.0"
     url-join "^5.0.0"
 
 "@semantic-release/github@^9.0.0":
@@ -11414,6 +11415,11 @@ undici@^5.25.4:
   integrity sha512-raqeBD6NQK4SkWhQzeYKd1KmIG6dllBOTt55Rmkt4HtI9mwdWtJljnrXjAFUBLTSN67HWrOIZ3EPF4kjUw80Bg==
   dependencies:
     "@fastify/busboy" "^2.0.0"
+
+undici@^7.0.0:
+  version "7.16.0"
+  resolved "https://registry.yarnpkg.com/undici/-/undici-7.16.0.tgz#cb2a1e957726d458b536e3f076bf51f066901c1a"
+  integrity sha512-QEg3HPMll0o3t2ourKwOeUAZ159Kn9mx5pnzHRQO8+Wixmh88YdZRiIwat0iNzNNXn0yoEtXJqFpyW7eM8BV7g==
 
 unicode-canonical-property-names-ecmascript@^2.0.0:
   version "2.0.1"
