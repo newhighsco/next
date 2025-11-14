@@ -1806,16 +1806,16 @@
   resolved "https://registry.yarnpkg.com/@newhighsco/prettier-config/-/prettier-config-2.3.2.tgz#9f400cca221372fc5b05dec749c59bb5da669a4d"
   integrity sha512-p7QE7Etfr5bzMsVx0gL0kYeI8og7lGKap0CzrzRd+nnBjtanXPPITJd6eoRQYJCUSgSs59i2bhgf/+jiws8Gyw==
 
-"@newhighsco/release-config@1.4.18":
-  version "1.4.18"
-  resolved "https://registry.yarnpkg.com/@newhighsco/release-config/-/release-config-1.4.18.tgz#862a2d2de07f886bc651899b02d1e2f4b993a710"
-  integrity sha512-o3N9TbZdnWR3EDpgQ3MGCEsikwARvDRMuG6gE3uP3dQ7GN94jNMN4bUMK7ZHEDDSBlFJ8hsl2+472O9oIMTXOQ==
+"@newhighsco/release-config@1.4.19":
+  version "1.4.19"
+  resolved "https://registry.yarnpkg.com/@newhighsco/release-config/-/release-config-1.4.19.tgz#cade81bfc95538887f73fce78c95c8ecbda38fdd"
+  integrity sha512-FYGqiw1tGpYtI7Un03i+nZrHn1sMch9iM2lmoUQQqAaY0K6ypUGdTH5bIVjNL4opFMfSuf2z8TT5D6TrlHHu8Q==
   dependencies:
     "@semantic-release/changelog" "6.0.3"
     "@semantic-release/commit-analyzer" "13.0.1"
     "@semantic-release/git" "10.0.1"
     "@semantic-release/github" "12.0.2"
-    "@semantic-release/npm" "13.1.1"
+    "@semantic-release/npm" "13.1.2"
     "@semantic-release/release-notes-generator" "14.1.0"
 
 "@next/env@16.0.3":
@@ -2663,10 +2663,10 @@
     p-filter "^4.0.0"
     url-join "^5.0.0"
 
-"@semantic-release/npm@13.1.1", "@semantic-release/npm@^13.1.1":
-  version "13.1.1"
-  resolved "https://registry.yarnpkg.com/@semantic-release/npm/-/npm-13.1.1.tgz#7d4e8a6ae4ebf556463871e41fdd63499b6675fd"
-  integrity sha512-c4tlp3STYaTYORmMcLjiTaI8SLoxJ0Uf7IXkem8EyihuOM624wnaGuH4OuY2HHcsHDerNAQNzZ8VO6d4PMHSzA==
+"@semantic-release/npm@13.1.2", "@semantic-release/npm@^13.1.1":
+  version "13.1.2"
+  resolved "https://registry.yarnpkg.com/@semantic-release/npm/-/npm-13.1.2.tgz#f19ad4275e487e5b633e42e6b7dc41d499ce0280"
+  integrity sha512-9rtshDTNlzYrC7uSBtB1vHqFzFZaNHigqkkCH5Ls4N/BSlVOenN5vtwHYxjAR4jf1hNvWSVwL4eIFTHONYckkw==
   dependencies:
     "@actions/core" "^1.11.1"
     "@semantic-release/error" "^4.0.0"
@@ -2679,7 +2679,7 @@
     normalize-url "^8.0.0"
     npm "^11.6.2"
     rc "^1.2.8"
-    read-pkg "^9.0.0"
+    read-pkg "^10.0.0"
     registry-auth-token "^5.0.0"
     semver "^7.1.2"
     tempy "^3.0.0"
