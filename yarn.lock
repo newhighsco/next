@@ -1189,12 +1189,12 @@
   resolved "https://registry.yarnpkg.com/@eslint-community/regexpp/-/regexpp-4.12.2.tgz#bccdf615bcf7b6e8db830ec0b8d21c9a25de597b"
   integrity sha512-EriSTlt5OC9/7SXkRSCAhfSxxoSUgBm33OH+IkwbdpgoqsSsUg7y3uh+IICI/Qg4BBWr3U2i39RpmycbxMq4ew==
 
-"@eslint/compat@1.4.1":
-  version "1.4.1"
-  resolved "https://registry.yarnpkg.com/@eslint/compat/-/compat-1.4.1.tgz#81eaabb3e0b080350582c1a8092a2d355fabf03e"
-  integrity sha512-cfO82V9zxxGBxcQDr1lfaYB7wykTa0b00mGa36FrJl7iTFd0Z2cHfEYuxcBRP/iNijCsWsEkA+jzT8hGYmv33w==
+"@eslint/compat@2.0.0":
+  version "2.0.0"
+  resolved "https://registry.yarnpkg.com/@eslint/compat/-/compat-2.0.0.tgz#0c98f24fdac8717eff6b6530971c1fa25e8612a8"
+  integrity sha512-T9AfE1G1uv4wwq94ozgTGio5EUQBqAVe1X9qsQtSNVEYW6j3hvtZVm8Smr4qL1qDPFg+lOB2cL5RxTRMzq4CTA==
   dependencies:
-    "@eslint/core" "^0.17.0"
+    "@eslint/core" "^1.0.0"
 
 "@eslint/config-array@^0.21.1":
   version "0.21.1"
@@ -1216,6 +1216,13 @@
   version "0.17.0"
   resolved "https://registry.yarnpkg.com/@eslint/core/-/core-0.17.0.tgz#77225820413d9617509da9342190a2019e78761c"
   integrity sha512-yL/sLrpmtDaFEiUj1osRP4TI2MDz1AddJL+jZ7KSqvBuliN4xqYY54IfdN8qD8Toa6g1iloph1fxQNkjOxrrpQ==
+  dependencies:
+    "@types/json-schema" "^7.0.15"
+
+"@eslint/core@^1.0.0":
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/@eslint/core/-/core-1.0.0.tgz#6e371a1ce8dc56224f3b9b97fb6b815cd41f9b87"
+  integrity sha512-PRfWP+8FOldvbApr6xL7mNCw4cJcSTq4GA7tYbgq15mRb0kWKO/wEB2jr+uwjFH3sZvEZneZyCUGTxsv4Sahyw==
   dependencies:
     "@types/json-schema" "^7.0.15"
 
@@ -1772,12 +1779,12 @@
   resolved "https://registry.yarnpkg.com/@newhighsco/editor-config/-/editor-config-1.2.0.tgz#a2b4771cb2cb05bc841fdb02fdf27ce7800947a2"
   integrity sha512-dQYY50CJHdQR5X31xZM2YSTrCBE71mXuKzHTSwojWChPGJt4m/ZUNkcd4qZ+3HutuFIs+C5X+Focl/6nVIztQA==
 
-"@newhighsco/eslint-config@5.4.1":
-  version "5.4.1"
-  resolved "https://registry.yarnpkg.com/@newhighsco/eslint-config/-/eslint-config-5.4.1.tgz#fb8ce6966517437c4d1614850b74bdb5cdb3cb40"
-  integrity sha512-XDP/TXFNA13MonoLQ3Rlk4mZ2c0QZLae1QpdihxvFruDi167XpE+J9i4kVNU2Y5dKcQh3eYB3capcBdEmwvWEw==
+"@newhighsco/eslint-config@5.4.2":
+  version "5.4.2"
+  resolved "https://registry.yarnpkg.com/@newhighsco/eslint-config/-/eslint-config-5.4.2.tgz#4292d1d322ff2b70c85e80584ad93188815a8081"
+  integrity sha512-2o/QJUljpPK4gc2mueiMNpLizpGwL64OH3IPOP++SSIx5SEYEdNKYzmY621GVFOufYycQzVujhltM6iGKxrBiQ==
   dependencies:
-    "@eslint/compat" "1.4.1"
+    "@eslint/compat" "2.0.0"
     "@eslint/eslintrc" "3.3.1"
     "@eslint/json" "0.14.0"
     "@typescript-eslint/eslint-plugin" "7.18.0"
