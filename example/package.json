@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "@newhighsco/next-plugin-svgr": "*",
-    "next": "16.0.3",
+    "next": "16.0.4",
     "react": "19.2.0",
     "react-dom": "19.2.0"
   }
