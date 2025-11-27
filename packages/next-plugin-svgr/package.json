@@ -33,6 +33,6 @@
     "url-loader": "4.1.1"
   },
   "peerDependencies": {
-    "next": "16.0.4"
+    "next": "16.0.5"
   }
 }
