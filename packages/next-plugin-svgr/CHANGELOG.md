@@ -1,3 +1,22 @@
+## @newhighsco/next-plugin-svgr [3.0.158](https://github.com/newhighsco/next/compare/@newhighsco/next-plugin-svgr@3.0.157...@newhighsco/next-plugin-svgr@3.0.158) (2026-01-15)
+
+
+### Bug Fixes
+
+* **deps:** update dependency next to v16 ([#1685](https://github.com/newhighsco/next/issues/1685)) ([d35f3aa](https://github.com/newhighsco/next/commit/d35f3aac877586113416bca8e4b6712a8cd096c6))
+* **deps:** update dependency next to v16.0.10 ([#1733](https://github.com/newhighsco/next/issues/1733)) ([8887dea](https://github.com/newhighsco/next/commit/8887dea8f14d6a4d6dfcaa29e24840dcc9427eab))
+* **deps:** update dependency next to v16.0.2 ([#1703](https://github.com/newhighsco/next/issues/1703)) ([7ef2991](https://github.com/newhighsco/next/commit/7ef299156c05db5fb91e220bb47bdfd540f2ee8c))
+* **deps:** update dependency next to v16.0.3 ([#1704](https://github.com/newhighsco/next/issues/1704)) ([9feed4b](https://github.com/newhighsco/next/commit/9feed4b7de4d12b0e516c79dca8c9681300743f5))
+* **deps:** update dependency next to v16.0.4 ([#1713](https://github.com/newhighsco/next/issues/1713)) ([57ff688](https://github.com/newhighsco/next/commit/57ff68896beee6b24d71c9fdac660961226be416))
+* **deps:** update dependency next to v16.0.5 ([#1714](https://github.com/newhighsco/next/issues/1714)) ([77be458](https://github.com/newhighsco/next/commit/77be45880b1cfef4d2a56b97a5165d143234c373))
+* **deps:** update dependency next to v16.0.6 ([#1721](https://github.com/newhighsco/next/issues/1721)) ([4c13683](https://github.com/newhighsco/next/commit/4c13683156521fdc310996d299b095816ea215aa))
+* **deps:** update dependency next to v16.0.7 ([#1726](https://github.com/newhighsco/next/issues/1726)) ([a6c7d8c](https://github.com/newhighsco/next/commit/a6c7d8c14e57f7496e0a5f12fafe6391dad2c4bc))
+* **deps:** update dependency next to v16.0.8 ([#1730](https://github.com/newhighsco/next/issues/1730)) ([75afaee](https://github.com/newhighsco/next/commit/75afaee85de9c9f304f620d3b2fdc61294c2ec46))
+* **deps:** update dependency next to v16.0.9 [security] ([#1735](https://github.com/newhighsco/next/issues/1735)) ([3d6ffae](https://github.com/newhighsco/next/commit/3d6ffaecee542ac48b0039e541d6c9a438f5281c))
+* **deps:** update dependency next to v16.1.0 ([#1739](https://github.com/newhighsco/next/issues/1739)) ([dc4f878](https://github.com/newhighsco/next/commit/dc4f878ba6490925b581e37a0a076bc1086b387d))
+* **deps:** update dependency next to v16.1.1 ([#1741](https://github.com/newhighsco/next/issues/1741)) ([dd0073d](https://github.com/newhighsco/next/commit/dd0073d7bf1e312fc76148705cd737e2044e1be5))
+* **deps:** update dependency next to v16.1.2 ([#1749](https://github.com/newhighsco/next/issues/1749)) ([6df380c](https://github.com/newhighsco/next/commit/6df380c04121e9209ff2f4d98ea95df31508fe55))
+
 ## [3.0.157](https://github.com/newhighsco/next-plugin-svgr/compare/v3.0.156...v3.0.157) (2025-03-04)
 
 
