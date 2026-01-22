@@ -1808,10 +1808,10 @@
     eslint-plugin-storybook "10.2.0"
     eslint-plugin-testing-library "7.15.4"
 
-"@newhighsco/prettier-config@2.3.2":
-  version "2.3.2"
-  resolved "https://registry.yarnpkg.com/@newhighsco/prettier-config/-/prettier-config-2.3.2.tgz#9f400cca221372fc5b05dec749c59bb5da669a4d"
-  integrity sha512-p7QE7Etfr5bzMsVx0gL0kYeI8og7lGKap0CzrzRd+nnBjtanXPPITJd6eoRQYJCUSgSs59i2bhgf/+jiws8Gyw==
+"@newhighsco/prettier-config@2.3.3":
+  version "2.3.3"
+  resolved "https://registry.yarnpkg.com/@newhighsco/prettier-config/-/prettier-config-2.3.3.tgz#26a8d931d0b58706c0c174ed19812cebb66a3cbe"
+  integrity sha512-u8K9jmr9u0P41ukQvU2rauzCAudDLrjSsMF9Vv8H/T0AE5MWPKEJRUJt/BDmADls+4wDgeXJ8wftpp1zWTSi8w==
 
 "@newhighsco/release-config@1.4.20":
   version "1.4.20"
