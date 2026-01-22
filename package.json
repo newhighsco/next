@@ -35,7 +35,7 @@
     "@newhighsco/commitlint-config": "1.1.46",
     "@newhighsco/editor-config": "1.2.0",
     "@newhighsco/eslint-config": "6.0.8",
-    "@newhighsco/prettier-config": "2.3.2",
+    "@newhighsco/prettier-config": "2.3.3",
     "@newhighsco/release-config": "1.4.20",
     "@qiwi/multi-semantic-release": "7.1.2",
     "concurrently": "9.2.1",
