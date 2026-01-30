@@ -1246,13 +1246,13 @@
   resolved "https://registry.yarnpkg.com/@eslint/js/-/js-9.39.2.tgz#2d4b8ec4c3ea13c1b3748e0c97ecd766bdd80599"
   integrity sha512-q1mjIoW1VX4IvSocvM/vbTiveKC4k9eLrajNEuSsmjymSDEbpGddtpfOoN7YGAqBK3NG+uqo8ia4PDTt8buCYA==
 
-"@eslint/json@0.14.0":
-  version "0.14.0"
-  resolved "https://registry.yarnpkg.com/@eslint/json/-/json-0.14.0.tgz#dd4809915e897c439d947b2cd4132950696a6a0c"
-  integrity sha512-rvR/EZtvUG3p9uqrSmcDJPYSH7atmWr0RnFWN6m917MAPx82+zQgPUmDu0whPFG6XTyM0vB/hR6c1Q63OaYtCQ==
+"@eslint/json@1.0.0":
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/@eslint/json/-/json-1.0.0.tgz#b9ec7ccaa2849a990fb0d128e2213a8f8e427be4"
+  integrity sha512-x0YjhxhUIG9yiS6KcB2SRmyzDM/eSac2IuhfLMyjAyxyCzH0gFjrHGPFahJlgiOt8dfaCpPDygcCmoCm9rzlyA==
   dependencies:
-    "@eslint/core" "^0.17.0"
-    "@eslint/plugin-kit" "^0.4.1"
+    "@eslint/core" "^1.0.1"
+    "@eslint/plugin-kit" "^0.5.1"
     "@humanwhocodes/momoa" "^3.3.10"
     natural-compare "^1.4.0"
 
@@ -1267,6 +1267,14 @@
   integrity sha512-43/qtrDUokr7LJqoF2c3+RInu/t4zfrpYdoSDfYyhg52rwLV6TnOvdG4fXm7IkSB3wErkcmJS9iEhjVtOSEjjA==
   dependencies:
     "@eslint/core" "^0.17.0"
+    levn "^0.4.1"
+
+"@eslint/plugin-kit@^0.5.1":
+  version "0.5.1"
+  resolved "https://registry.yarnpkg.com/@eslint/plugin-kit/-/plugin-kit-0.5.1.tgz#35b0ccf9a2f654501fbe4bfe2e798f2d1adacaeb"
+  integrity sha512-hZ2uC1jbf6JMSsF2ZklhRQqf6GLpYyux6DlzegnW/aFlpu6qJj5GO7ub7WOETCrEl6pl6DAX7RgTgj/fyG+6BQ==
+  dependencies:
+    "@eslint/core" "^1.0.1"
     levn "^0.4.1"
 
 "@fastify/busboy@^2.0.0":
@@ -1769,24 +1777,24 @@
     "@emnapi/runtime" "^1.4.3"
     "@tybys/wasm-util" "^0.10.0"
 
-"@newhighsco/commitlint-config@1.1.46":
-  version "1.1.46"
-  resolved "https://registry.yarnpkg.com/@newhighsco/commitlint-config/-/commitlint-config-1.1.46.tgz#2ab32ea1eacc8a8af319c2a809c1a45512636cbc"
-  integrity sha512-+Ce9biQ/ZD/IH5RLCOB0Zwb06Jk+sO0XH1y2T3RwP2pAns60GrV8xYrpxB9u/7zZRHCd3yhgck7GvjH+97ktbg==
+"@newhighsco/commitlint-config@1.1.47":
+  version "1.1.47"
+  resolved "https://registry.yarnpkg.com/@newhighsco/commitlint-config/-/commitlint-config-1.1.47.tgz#8472bc56f1a38cf366e172002e701d7b1cafaf36"
+  integrity sha512-z2nJy8kGCgy5Zkp1Sz3om2uskvvs5CcwmcQ9ozhwQ1ARXhZyCenveN/K5covBg55JvqfFKWpkWUpOexI4XE5Dw==
 
 "@newhighsco/editor-config@1.2.0":
   version "1.2.0"
   resolved "https://registry.yarnpkg.com/@newhighsco/editor-config/-/editor-config-1.2.0.tgz#a2b4771cb2cb05bc841fdb02fdf27ce7800947a2"
   integrity sha512-dQYY50CJHdQR5X31xZM2YSTrCBE71mXuKzHTSwojWChPGJt4m/ZUNkcd4qZ+3HutuFIs+C5X+Focl/6nVIztQA==
 
-"@newhighsco/eslint-config@6.0.10":
-  version "6.0.10"
-  resolved "https://registry.yarnpkg.com/@newhighsco/eslint-config/-/eslint-config-6.0.10.tgz#9e809398a65e750842f1a7db55d7275787212bcf"
-  integrity sha512-91E7iKrkHSD8Ss6XIAgtIg+J34MTP5IlgE4GLAqE/Oi9qy+QuxIBA8acZPCcRrTwhKO4L1qmtdSzGJKZGo3m5g==
+"@newhighsco/eslint-config@6.0.11":
+  version "6.0.11"
+  resolved "https://registry.yarnpkg.com/@newhighsco/eslint-config/-/eslint-config-6.0.11.tgz#c60818a694c8e3d4868ef35156e4417b91def02b"
+  integrity sha512-INLx43DICkMHj8n4r0aAPYUCIi4Tbjg7eVidThXe0jtHqi26e41TSGLo65TTQ/QLzuUnz8Ne6VSKtLdxKUpo1A==
   dependencies:
     "@eslint/compat" "2.0.1"
     "@eslint/eslintrc" "3.3.3"
-    "@eslint/json" "0.14.0"
+    "@eslint/json" "1.0.0"
     "@typescript-eslint/eslint-plugin" "7.18.0"
     "@typescript-eslint/parser" "7.18.0"
     eslint-config-love "44.0.0"
