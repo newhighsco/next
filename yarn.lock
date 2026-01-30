@@ -1787,10 +1787,10 @@
   resolved "https://registry.yarnpkg.com/@newhighsco/editor-config/-/editor-config-1.2.0.tgz#a2b4771cb2cb05bc841fdb02fdf27ce7800947a2"
   integrity sha512-dQYY50CJHdQR5X31xZM2YSTrCBE71mXuKzHTSwojWChPGJt4m/ZUNkcd4qZ+3HutuFIs+C5X+Focl/6nVIztQA==
 
-"@newhighsco/eslint-config@6.0.11":
-  version "6.0.11"
-  resolved "https://registry.yarnpkg.com/@newhighsco/eslint-config/-/eslint-config-6.0.11.tgz#c60818a694c8e3d4868ef35156e4417b91def02b"
-  integrity sha512-INLx43DICkMHj8n4r0aAPYUCIi4Tbjg7eVidThXe0jtHqi26e41TSGLo65TTQ/QLzuUnz8Ne6VSKtLdxKUpo1A==
+"@newhighsco/eslint-config@6.0.12":
+  version "6.0.12"
+  resolved "https://registry.yarnpkg.com/@newhighsco/eslint-config/-/eslint-config-6.0.12.tgz#adbe4668b49c9d4998ee5e645de1b1f1a30c5e48"
+  integrity sha512-mVFAyehR8c8BM6/hbp6Ra7i1GzS77wKayevzEkvDIljL/1yGWJgiM2yyIoJr+mfC1S7CKw0Z1WGX/0PD7kG/7g==
   dependencies:
     "@eslint/compat" "2.0.1"
     "@eslint/eslintrc" "3.3.3"
@@ -1813,7 +1813,7 @@
     eslint-plugin-react "7.37.5"
     eslint-plugin-react-hooks "7.0.1"
     eslint-plugin-simple-import-sort "12.1.1"
-    eslint-plugin-storybook "10.2.2"
+    eslint-plugin-storybook "10.2.3"
     eslint-plugin-testing-library "7.15.4"
 
 "@newhighsco/prettier-config@2.3.3":
@@ -5274,10 +5274,10 @@ eslint-plugin-simple-import-sort@12.1.1:
   resolved "https://registry.yarnpkg.com/eslint-plugin-simple-import-sort/-/eslint-plugin-simple-import-sort-12.1.1.tgz#e64bfdaf91c5b98a298619aa634a9f7aa43b709e"
   integrity sha512-6nuzu4xwQtE3332Uz0to+TxDQYRLTKRESSc2hefVT48Zc8JthmN23Gx9lnYhu0FtkRSL1oxny3kJ2aveVhmOVA==
 
-eslint-plugin-storybook@10.2.2:
-  version "10.2.2"
-  resolved "https://registry.yarnpkg.com/eslint-plugin-storybook/-/eslint-plugin-storybook-10.2.2.tgz#12105b05be0cedcc4abead15630ee858fc99d020"
-  integrity sha512-fcO4NQicW7QJKAwMccibvjZ+/Riaj3JcQQJybjJ1bbwAJkOv1hcW+0kn/CzcqyB2RRKGAbUN6xZvw5lsa7QCHw==
+eslint-plugin-storybook@10.2.3:
+  version "10.2.3"
+  resolved "https://registry.yarnpkg.com/eslint-plugin-storybook/-/eslint-plugin-storybook-10.2.3.tgz#f0e37f7f9efe4269dfe9d08a1718de68edac8ff0"
+  integrity sha512-5wy+OKe6VexZecAedroKv+GR+agciZqK/Su7cdo6b1mICWaWwejU/XjjTLL9zr6wiEjCN/0mhYg7yz70DoaMQQ==
   dependencies:
     "@typescript-eslint/utils" "^8.48.0"
 
