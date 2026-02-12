@@ -1777,15 +1777,15 @@
   resolved "https://registry.yarnpkg.com/@newhighsco/prettier-config/-/prettier-config-2.3.3.tgz#26a8d931d0b58706c0c174ed19812cebb66a3cbe"
   integrity sha512-u8K9jmr9u0P41ukQvU2rauzCAudDLrjSsMF9Vv8H/T0AE5MWPKEJRUJt/BDmADls+4wDgeXJ8wftpp1zWTSi8w==
 
-"@newhighsco/release-config@1.4.24":
-  version "1.4.24"
-  resolved "https://registry.yarnpkg.com/@newhighsco/release-config/-/release-config-1.4.24.tgz#13ca58408470b442e66a28df2dbc690aabb07d4c"
-  integrity sha512-QnYgpQh6GbEHtL1gJca8pcEzBXFHYj9kh6PRVkhDoEQPkJupc3kmP7qGw609qFqp0xvawBhtoRw6asn34VRxFw==
+"@newhighsco/release-config@1.4.25":
+  version "1.4.25"
+  resolved "https://registry.yarnpkg.com/@newhighsco/release-config/-/release-config-1.4.25.tgz#835198a29b2d6ba67aeaa66fa6883a1929c8caaf"
+  integrity sha512-n0+v6gyv0EaV/OSHCkMwd3X9Xr/zIG8C6yTJShjPmXTId4pnXG7F9DTsAJcTs3JboOfu3/6pKWvrd7zH7ztACA==
   dependencies:
     "@semantic-release/changelog" "6.0.3"
     "@semantic-release/commit-analyzer" "13.0.1"
     "@semantic-release/git" "10.0.1"
-    "@semantic-release/github" "12.0.5"
+    "@semantic-release/github" "12.0.6"
     "@semantic-release/npm" "13.1.4"
     "@semantic-release/release-notes-generator" "14.1.0"
 
@@ -2512,10 +2512,10 @@
     micromatch "^4.0.0"
     p-reduce "^2.0.0"
 
-"@semantic-release/github@12.0.5", "@semantic-release/github@^12.0.0":
-  version "12.0.5"
-  resolved "https://registry.yarnpkg.com/@semantic-release/github/-/github-12.0.5.tgz#b660b6031b77e66d96fc66af9dc540a0c0637bc7"
-  integrity sha512-QEf76UJGbNdq58EWQHBO56YWVQbPDuFOSITkfaI6Q4acpThWqL/jpbrDTilcqo3plRE3NnJko97XLmpCEp4WGw==
+"@semantic-release/github@12.0.6", "@semantic-release/github@^12.0.0":
+  version "12.0.6"
+  resolved "https://registry.yarnpkg.com/@semantic-release/github/-/github-12.0.6.tgz#c60c556e7087938be988d0be3de6d70e8cbaced8"
+  integrity sha512-aYYFkwHW3c6YtHwQF0t0+lAjlU+87NFOZuH2CvWFD0Ylivc7MwhZMiHOJ0FMpIgPpCVib/VUAcOwvrW0KnxQtA==
   dependencies:
     "@octokit/core" "^7.0.0"
     "@octokit/plugin-paginate-rest" "^14.0.0"
