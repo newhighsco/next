@@ -1744,10 +1744,10 @@
   resolved "https://registry.yarnpkg.com/@newhighsco/editor-config/-/editor-config-1.2.0.tgz#a2b4771cb2cb05bc841fdb02fdf27ce7800947a2"
   integrity sha512-dQYY50CJHdQR5X31xZM2YSTrCBE71mXuKzHTSwojWChPGJt4m/ZUNkcd4qZ+3HutuFIs+C5X+Focl/6nVIztQA==
 
-"@newhighsco/eslint-config@7.0.7":
-  version "7.0.7"
-  resolved "https://registry.yarnpkg.com/@newhighsco/eslint-config/-/eslint-config-7.0.7.tgz#0467e608d8bc799a2b45562dcb323f113f6e6acd"
-  integrity sha512-l/4XmUGNruLiBqq/o8nmomV27sPzU29EquxSoczVe0Yyk6S4ZNhGqyV1tZPr37gG8HV5yN/qr9J3iuaO4ExCsA==
+"@newhighsco/eslint-config@7.0.8":
+  version "7.0.8"
+  resolved "https://registry.yarnpkg.com/@newhighsco/eslint-config/-/eslint-config-7.0.8.tgz#9532b89e67f5d6c94da02577e80ba86a99f6524c"
+  integrity sha512-kkOVrzx27VtNr30EwBRAEk7RdJgyfy2JCJ4idrOHFOeQ2i6Kb6ZhICDCz+2px2UvxxpAl+8nRNJz6H8ZUZzD8A==
   dependencies:
     "@eslint/compat" "2.0.2"
     "@eslint/js" "10.0.1"
@@ -1761,7 +1761,7 @@
     eslint-plugin-react-hooks "7.0.1"
     eslint-plugin-simple-import-sort "12.1.1"
     eslint-plugin-storybook "10.2.9"
-    eslint-plugin-testing-library "7.15.4"
+    eslint-plugin-testing-library "7.16.0"
     find-up "8.0.0"
     typescript-eslint "8.56.0"
 
@@ -3036,7 +3036,7 @@
     "@typescript-eslint/types" "^8.56.0"
     debug "^4.4.3"
 
-"@typescript-eslint/scope-manager@8.56.0", "@typescript-eslint/scope-manager@^8.51.0":
+"@typescript-eslint/scope-manager@8.56.0", "@typescript-eslint/scope-manager@^8.56.0":
   version "8.56.0"
   resolved "https://registry.yarnpkg.com/@typescript-eslint/scope-manager/-/scope-manager-8.56.0.tgz#604030a4c6433df3728effdd441d47f45a86edb4"
   integrity sha512-7UiO/XwMHquH+ZzfVCfUNkIXlp/yQjjnlYUyYz7pfvlK3/EyyN6BK+emDmGNyQLBtLGaYrTAI6KOw8tFucWL2w==
@@ -3080,7 +3080,7 @@
     tinyglobby "^0.2.15"
     ts-api-utils "^2.4.0"
 
-"@typescript-eslint/utils@8.56.0", "@typescript-eslint/utils@^8.48.0", "@typescript-eslint/utils@^8.51.0":
+"@typescript-eslint/utils@8.56.0", "@typescript-eslint/utils@^8.48.0", "@typescript-eslint/utils@^8.56.0":
   version "8.56.0"
   resolved "https://registry.yarnpkg.com/@typescript-eslint/utils/-/utils-8.56.0.tgz#063ce6f702ec603de1b83ee795ed5e877d6f7841"
   integrity sha512-RZ3Qsmi2nFGsS+n+kjLAYDPVlrzf7UhTffrDIKr+h2yzAlYP/y5ZulU0yeDEPItos2Ph46JAL5P/On3pe7kDIQ==
@@ -4899,13 +4899,13 @@ eslint-plugin-storybook@10.2.9:
   dependencies:
     "@typescript-eslint/utils" "^8.48.0"
 
-eslint-plugin-testing-library@7.15.4:
-  version "7.15.4"
-  resolved "https://registry.yarnpkg.com/eslint-plugin-testing-library/-/eslint-plugin-testing-library-7.15.4.tgz#cd6070b2c98368f280a2c96cc318604d5f012640"
-  integrity sha512-qP0ZPWAvDrS3oxZJErUfn3SZiIzj5Zh2EWuyWxjR5Bsk84ntxpquh4D0USorfyw5MzECURQ8OcEeBQdspHatzQ==
+eslint-plugin-testing-library@7.16.0:
+  version "7.16.0"
+  resolved "https://registry.yarnpkg.com/eslint-plugin-testing-library/-/eslint-plugin-testing-library-7.16.0.tgz#ac8dd5e4069e9264d997079b4cb5f45e79d2b8a7"
+  integrity sha512-lHZI6/Olb2oZqxd1+s1nOLCtL2PXKrc1ERz6oDbUKS0xZAMFH3Fy6wJo75z3pXTop3BV6+loPi2MSjIYt3vpAg==
   dependencies:
-    "@typescript-eslint/scope-manager" "^8.51.0"
-    "@typescript-eslint/utils" "^8.51.0"
+    "@typescript-eslint/scope-manager" "^8.56.0"
+    "@typescript-eslint/utils" "^8.56.0"
 
 eslint-scope@^9.1.0:
   version "9.1.0"
