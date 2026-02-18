@@ -1744,10 +1744,10 @@
   resolved "https://registry.yarnpkg.com/@newhighsco/editor-config/-/editor-config-1.2.0.tgz#a2b4771cb2cb05bc841fdb02fdf27ce7800947a2"
   integrity sha512-dQYY50CJHdQR5X31xZM2YSTrCBE71mXuKzHTSwojWChPGJt4m/ZUNkcd4qZ+3HutuFIs+C5X+Focl/6nVIztQA==
 
-"@newhighsco/eslint-config@7.0.9":
-  version "7.0.9"
-  resolved "https://registry.yarnpkg.com/@newhighsco/eslint-config/-/eslint-config-7.0.9.tgz#5d0634275e696478a1dff2c7d5110fe1f65c329f"
-  integrity sha512-v15oS5XQjewpk+K63CcaV12uIPBIIsy21zU8dY/Ekz/YaiVKPlBsfumxDDuP+NW3BBEb/noG4gkGsaS6kzh7EQ==
+"@newhighsco/eslint-config@7.0.10":
+  version "7.0.10"
+  resolved "https://registry.yarnpkg.com/@newhighsco/eslint-config/-/eslint-config-7.0.10.tgz#f19f3ea732e64e748f4249a5b103edb5f9b36788"
+  integrity sha512-1ns1Vn95wmoibfDGKc1Q4aztVb7CdQbsnrmNY2I7R1PeHAeO2sjl311Y/93m/tUQ0wDv++KgTSW5puxLLQ6IYw==
   dependencies:
     "@eslint/compat" "2.0.2"
     "@eslint/js" "10.0.1"
@@ -1760,7 +1760,7 @@
     eslint-plugin-react "7.37.5"
     eslint-plugin-react-hooks "7.0.1"
     eslint-plugin-simple-import-sort "12.1.1"
-    eslint-plugin-storybook "10.2.9"
+    eslint-plugin-storybook "10.2.10"
     eslint-plugin-testing-library "7.16.0"
     find-up "8.0.0"
     typescript-eslint "8.56.0"
@@ -4892,10 +4892,10 @@ eslint-plugin-simple-import-sort@12.1.1:
   resolved "https://registry.yarnpkg.com/eslint-plugin-simple-import-sort/-/eslint-plugin-simple-import-sort-12.1.1.tgz#e64bfdaf91c5b98a298619aa634a9f7aa43b709e"
   integrity sha512-6nuzu4xwQtE3332Uz0to+TxDQYRLTKRESSc2hefVT48Zc8JthmN23Gx9lnYhu0FtkRSL1oxny3kJ2aveVhmOVA==
 
-eslint-plugin-storybook@10.2.9:
-  version "10.2.9"
-  resolved "https://registry.yarnpkg.com/eslint-plugin-storybook/-/eslint-plugin-storybook-10.2.9.tgz#9c5e3aa64836d4364ed52a831419f7119e4d716a"
-  integrity sha512-nmPxjPw2KfmosqAUb/W0jmEfAZzK97kyJ8W5KMuweCblwjIL0hI/GMsWSP8CCBPnhQ9LnuxtT8JtQUOsslcbwA==
+eslint-plugin-storybook@10.2.10:
+  version "10.2.10"
+  resolved "https://registry.yarnpkg.com/eslint-plugin-storybook/-/eslint-plugin-storybook-10.2.10.tgz#ee18b598c88487fc01aa16b83d2e058c55b04a5b"
+  integrity sha512-aWkoh2rhTaEsMA4yB1iVIcISM5wb0uffp09ZqhwpoD4GAngCs131uq6un+QdnOMc7vXyAnBBfsuhtOj8WwCUgw==
   dependencies:
     "@typescript-eslint/utils" "^8.48.0"
 
