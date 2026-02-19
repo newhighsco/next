@@ -1734,10 +1734,10 @@
     "@emnapi/runtime" "^1.4.3"
     "@tybys/wasm-util" "^0.10.0"
 
-"@newhighsco/commitlint-config@1.1.48":
-  version "1.1.48"
-  resolved "https://registry.yarnpkg.com/@newhighsco/commitlint-config/-/commitlint-config-1.1.48.tgz#9d85ed00c1aa3d6e440ccff60a42da2a92751746"
-  integrity sha512-gtGRIupdMFE5sTISIVQgHEI82BMBPsyak/hY1UGMcOFlv6GZTeuO+OPgJX+5wx5UWx5gupdba/l6spWBe4MUZg==
+"@newhighsco/commitlint-config@1.1.49":
+  version "1.1.49"
+  resolved "https://registry.yarnpkg.com/@newhighsco/commitlint-config/-/commitlint-config-1.1.49.tgz#63470f71fbca3c031087494687bc1449b1f7c3ac"
+  integrity sha512-tflfwsPCNpWDTORHVCN31fMtycztveR95PTeOxc5DyaQLUXqYpzjuZGG+ZKARdwl8VTi5hwkKuLtuXkMDa30qg==
 
 "@newhighsco/editor-config@1.2.0":
   version "1.2.0"
