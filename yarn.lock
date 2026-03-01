@@ -1765,16 +1765,16 @@
   resolved "https://registry.yarnpkg.com/@newhighsco/prettier-config/-/prettier-config-2.3.3.tgz#26a8d931d0b58706c0c174ed19812cebb66a3cbe"
   integrity sha512-u8K9jmr9u0P41ukQvU2rauzCAudDLrjSsMF9Vv8H/T0AE5MWPKEJRUJt/BDmADls+4wDgeXJ8wftpp1zWTSi8w==
 
-"@newhighsco/release-config@1.4.25":
-  version "1.4.25"
-  resolved "https://registry.yarnpkg.com/@newhighsco/release-config/-/release-config-1.4.25.tgz#835198a29b2d6ba67aeaa66fa6883a1929c8caaf"
-  integrity sha512-n0+v6gyv0EaV/OSHCkMwd3X9Xr/zIG8C6yTJShjPmXTId4pnXG7F9DTsAJcTs3JboOfu3/6pKWvrd7zH7ztACA==
+"@newhighsco/release-config@1.4.26":
+  version "1.4.26"
+  resolved "https://registry.yarnpkg.com/@newhighsco/release-config/-/release-config-1.4.26.tgz#7770c1fb124d9928a28799c59e5f176d141c7648"
+  integrity sha512-HD/5PZHG3ehGwjo4GIfvPdKmT7MXl57MzM+NLxSvs28TKewiStEFfbT/Rmc5gLlf5dSiR2eRZZ9Ujbv3vghrFA==
   dependencies:
     "@semantic-release/changelog" "6.0.3"
     "@semantic-release/commit-analyzer" "13.0.1"
     "@semantic-release/git" "10.0.1"
     "@semantic-release/github" "12.0.6"
-    "@semantic-release/npm" "13.1.4"
+    "@semantic-release/npm" "13.1.5"
     "@semantic-release/release-notes-generator" "14.1.0"
 
 "@next/env@16.1.6":
@@ -2546,10 +2546,10 @@
     p-filter "^4.0.0"
     url-join "^5.0.0"
 
-"@semantic-release/npm@13.1.4", "@semantic-release/npm@^13.1.1":
-  version "13.1.4"
-  resolved "https://registry.yarnpkg.com/@semantic-release/npm/-/npm-13.1.4.tgz#27a77a52b024febed2e343eee908d967ed841985"
-  integrity sha512-z5Fn9ftK1QQgFxMSuOd3DtYbTl4hWI2trCEvZcEJMQJy1/OBR0WHcxqzfVun455FSkHML8KgvPxJEa9MtZIBsg==
+"@semantic-release/npm@13.1.5", "@semantic-release/npm@^13.1.1":
+  version "13.1.5"
+  resolved "https://registry.yarnpkg.com/@semantic-release/npm/-/npm-13.1.5.tgz#99178d57ca8f68fb4ea2aa2d388052ec3f397498"
+  integrity sha512-Hq5UxzoatN3LHiq2rTsWS54nCdqJHlsssGERCo8WlvdfFA9LoN0vO+OuKVSjtNapIc/S8C2LBj206wKLHg62mg==
   dependencies:
     "@actions/core" "^3.0.0"
     "@semantic-release/error" "^4.0.0"
@@ -2559,7 +2559,7 @@
     fs-extra "^11.0.0"
     lodash-es "^4.17.21"
     nerf-dart "^1.0.0"
-    normalize-url "^8.0.0"
+    normalize-url "^9.0.0"
     npm "^11.6.2"
     rc "^1.2.8"
     read-pkg "^10.0.0"
@@ -7892,6 +7892,11 @@ normalize-url@^8.0.0:
   version "8.1.1"
   resolved "https://registry.yarnpkg.com/normalize-url/-/normalize-url-8.1.1.tgz#751a20c8520e5725404c06015fea21d7567f25ef"
   integrity sha512-JYc0DPlpGWB40kH5g07gGTrYuMqV653k3uBKY6uITPWds3M0ov3GaWGp9lbE3Bzngx8+XkfzgvASb9vk9JDFXQ==
+
+normalize-url@^9.0.0:
+  version "9.0.0"
+  resolved "https://registry.yarnpkg.com/normalize-url/-/normalize-url-9.0.0.tgz#9a2c3e23dcc3cb4c5be7d70c6377cddd76e57dc1"
+  integrity sha512-z9nC87iaZXXySbWWtTHfCFJyFvKaUAW6lODhikG7ILSbVgmwuFjUqkgnheHvAUcGedO29e2QGBRXMUD64aurqQ==
 
 npm-audit-report@^5.0.0:
   version "5.0.0"
