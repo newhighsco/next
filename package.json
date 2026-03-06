@@ -34,7 +34,7 @@
     "@commitlint/cli": "20.4.3",
     "@newhighsco/commitlint-config": "1.1.50",
     "@newhighsco/editor-config": "1.2.0",
-    "@newhighsco/eslint-config": "7.0.18",
+    "@newhighsco/eslint-config": "7.0.19",
     "@newhighsco/prettier-config": "2.3.3",
     "@newhighsco/release-config": "1.4.26",
     "@qiwi/multi-semantic-release": "7.1.2",
