@@ -1744,16 +1744,16 @@
   resolved "https://registry.yarnpkg.com/@newhighsco/editor-config/-/editor-config-1.2.0.tgz#a2b4771cb2cb05bc841fdb02fdf27ce7800947a2"
   integrity sha512-dQYY50CJHdQR5X31xZM2YSTrCBE71mXuKzHTSwojWChPGJt4m/ZUNkcd4qZ+3HutuFIs+C5X+Focl/6nVIztQA==
 
-"@newhighsco/eslint-config@7.0.22":
-  version "7.0.22"
-  resolved "https://registry.yarnpkg.com/@newhighsco/eslint-config/-/eslint-config-7.0.22.tgz#acf38dc15cb2ff00e2f474b72328dea9aa4ac842"
-  integrity sha512-MVFxAv9tX59xTCzOsq99jT0aj33DgQ/SganG2cF76eHnJV7nozPJzDNMNNHk3MHzR2WmXTDOKACjnKfYrujO1w==
+"@newhighsco/eslint-config@7.0.23":
+  version "7.0.23"
+  resolved "https://registry.yarnpkg.com/@newhighsco/eslint-config/-/eslint-config-7.0.23.tgz#c2879d0911a650cd89a3c6313e9f4503c24dcbc2"
+  integrity sha512-taW5cwjwhcJ8+tLSoFIEjcAJkcDE3bQAQdudzeXbABWpZ+3odypJEjDUVnL1/zPNuaqoWTuLdZkJtm/poOGc7g==
   dependencies:
     "@eslint/compat" "2.0.3"
     "@eslint/js" "10.0.1"
     "@eslint/json" "1.1.0"
     eslint-config-prettier "10.1.8"
-    eslint-plugin-cypress "6.1.0"
+    eslint-plugin-cypress "6.2.0"
     eslint-plugin-import "2.32.0"
     eslint-plugin-jsx-a11y "6.10.2"
     eslint-plugin-prettier "5.5.5"
@@ -4791,10 +4791,10 @@ eslint-module-utils@^2.12.1:
   dependencies:
     debug "^3.2.7"
 
-eslint-plugin-cypress@6.1.0:
-  version "6.1.0"
-  resolved "https://registry.yarnpkg.com/eslint-plugin-cypress/-/eslint-plugin-cypress-6.1.0.tgz#5619ceb67d09d74cb5225408bb36c962afb94880"
-  integrity sha512-B8sxtNpINDxFkmsu1qKYjg70VsP8SGneEXgLcZMk1bUZcW08S+JyaiMdof1x6dmt02FgOD7YkT4wOaOD5HotJw==
+eslint-plugin-cypress@6.2.0:
+  version "6.2.0"
+  resolved "https://registry.yarnpkg.com/eslint-plugin-cypress/-/eslint-plugin-cypress-6.2.0.tgz#220992444debed13587a1fb3356e7e952245ac43"
+  integrity sha512-G/8XT9Si0GaqGRVM0sgnRACCI9mbzsC4CisvaaiuJlQoCseKz6C51kq5fcC/yKmwO4dTsWCdhbgaiQtZFGSONg==
   dependencies:
     globals "^17.3.0"
 
