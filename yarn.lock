@@ -1753,10 +1753,10 @@
   resolved "https://registry.yarnpkg.com/@newhighsco/editor-config/-/editor-config-1.2.0.tgz#a2b4771cb2cb05bc841fdb02fdf27ce7800947a2"
   integrity sha512-dQYY50CJHdQR5X31xZM2YSTrCBE71mXuKzHTSwojWChPGJt4m/ZUNkcd4qZ+3HutuFIs+C5X+Focl/6nVIztQA==
 
-"@newhighsco/eslint-config@7.0.25":
-  version "7.0.25"
-  resolved "https://registry.yarnpkg.com/@newhighsco/eslint-config/-/eslint-config-7.0.25.tgz#2579e7b02ad06c56847de413387266cf56c314d2"
-  integrity sha512-kLMwFlrL+fN/Jd1+Sq3UCh/gEFwdml88+fN3vq0ZhNpmOXBHkj+KKseKm6pf/MeXvQIDkPF6MHyT50UQT9A5uw==
+"@newhighsco/eslint-config@7.0.26":
+  version "7.0.26"
+  resolved "https://registry.yarnpkg.com/@newhighsco/eslint-config/-/eslint-config-7.0.26.tgz#f045c9804a8251e3f1015cb92fc40294a10bdd76"
+  integrity sha512-HVvkDU9hDQrUPdqcT+rKnNcFn1AdP9floIIVBZp/I0sheMwugZMqWQFSnub3QrpFNfwFKfZHEQVSLsHP8v5GCQ==
   dependencies:
     "@eslint/compat" "2.0.3"
     "@eslint/js" "10.0.1"
@@ -1769,7 +1769,7 @@
     eslint-plugin-react "7.37.5"
     eslint-plugin-react-hooks "7.0.1"
     eslint-plugin-simple-import-sort "12.1.1"
-    eslint-plugin-storybook "10.2.19"
+    eslint-plugin-storybook "10.3.0"
     eslint-plugin-testing-library "7.16.0"
     find-up "8.0.0"
     typescript-eslint "8.57.1"
@@ -4905,10 +4905,10 @@ eslint-plugin-simple-import-sort@12.1.1:
   resolved "https://registry.yarnpkg.com/eslint-plugin-simple-import-sort/-/eslint-plugin-simple-import-sort-12.1.1.tgz#e64bfdaf91c5b98a298619aa634a9f7aa43b709e"
   integrity sha512-6nuzu4xwQtE3332Uz0to+TxDQYRLTKRESSc2hefVT48Zc8JthmN23Gx9lnYhu0FtkRSL1oxny3kJ2aveVhmOVA==
 
-eslint-plugin-storybook@10.2.19:
-  version "10.2.19"
-  resolved "https://registry.yarnpkg.com/eslint-plugin-storybook/-/eslint-plugin-storybook-10.2.19.tgz#50af412b47a9a13527b8ab308fd90d6ae7b9d4d4"
-  integrity sha512-JwwNgG24mkwwiJp/VIwUuJ9QIXoeCZteSZ7PEpb8DUhKpzCrNxJOeg7i5ep6yLexWAVjfFLG4OnFeV8cVS2PAg==
+eslint-plugin-storybook@10.3.0:
+  version "10.3.0"
+  resolved "https://registry.yarnpkg.com/eslint-plugin-storybook/-/eslint-plugin-storybook-10.3.0.tgz#a8fc4993ad240dab85f5a951ee5097c81c09583c"
+  integrity sha512-8R0/RjELXkJ2RxPusX14ZiIj1So90bPnrjbxmQx1BD+4M2VoMHfn3n+6IvzJWQH4FT5tMRRUBqjLBe1fJjRRkg==
   dependencies:
     "@typescript-eslint/utils" "^8.48.0"
 
