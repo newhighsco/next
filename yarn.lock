@@ -1753,10 +1753,10 @@
   resolved "https://registry.yarnpkg.com/@newhighsco/editor-config/-/editor-config-1.2.0.tgz#a2b4771cb2cb05bc841fdb02fdf27ce7800947a2"
   integrity sha512-dQYY50CJHdQR5X31xZM2YSTrCBE71mXuKzHTSwojWChPGJt4m/ZUNkcd4qZ+3HutuFIs+C5X+Focl/6nVIztQA==
 
-"@newhighsco/eslint-config@7.0.26":
-  version "7.0.26"
-  resolved "https://registry.yarnpkg.com/@newhighsco/eslint-config/-/eslint-config-7.0.26.tgz#f045c9804a8251e3f1015cb92fc40294a10bdd76"
-  integrity sha512-HVvkDU9hDQrUPdqcT+rKnNcFn1AdP9floIIVBZp/I0sheMwugZMqWQFSnub3QrpFNfwFKfZHEQVSLsHP8v5GCQ==
+"@newhighsco/eslint-config@7.0.27":
+  version "7.0.27"
+  resolved "https://registry.yarnpkg.com/@newhighsco/eslint-config/-/eslint-config-7.0.27.tgz#11e9337394fd7b5f4ba2f1a49ecd0db8419220b2"
+  integrity sha512-ZoiRT4LveJpdRyOZcLHoRQhkm59+LXA47uGum1jqyMrBBSK/YbVSNI5Y/uBYItbMHSsFRR71lg3huj5KiVwCMQ==
   dependencies:
     "@eslint/compat" "2.0.3"
     "@eslint/js" "10.0.1"
@@ -1770,7 +1770,7 @@
     eslint-plugin-react-hooks "7.0.1"
     eslint-plugin-simple-import-sort "12.1.1"
     eslint-plugin-storybook "10.3.0"
-    eslint-plugin-testing-library "7.16.0"
+    eslint-plugin-testing-library "7.16.1"
     find-up "8.0.0"
     typescript-eslint "8.57.1"
 
@@ -4912,10 +4912,10 @@ eslint-plugin-storybook@10.3.0:
   dependencies:
     "@typescript-eslint/utils" "^8.48.0"
 
-eslint-plugin-testing-library@7.16.0:
-  version "7.16.0"
-  resolved "https://registry.yarnpkg.com/eslint-plugin-testing-library/-/eslint-plugin-testing-library-7.16.0.tgz#ac8dd5e4069e9264d997079b4cb5f45e79d2b8a7"
-  integrity sha512-lHZI6/Olb2oZqxd1+s1nOLCtL2PXKrc1ERz6oDbUKS0xZAMFH3Fy6wJo75z3pXTop3BV6+loPi2MSjIYt3vpAg==
+eslint-plugin-testing-library@7.16.1:
+  version "7.16.1"
+  resolved "https://registry.yarnpkg.com/eslint-plugin-testing-library/-/eslint-plugin-testing-library-7.16.1.tgz#9378976d98aeaa6a7dd724a46d4e54f7cbbc90b0"
+  integrity sha512-/pCFzJuro/wOq6FCp43DwS3fpCr0hM2gByJAxi8bPdL7DXKdmH3p3BEpVKQkneUxT6T2XbUXG4J+c5GSAm12lA==
   dependencies:
     "@typescript-eslint/scope-manager" "^8.56.0"
     "@typescript-eslint/utils" "^8.56.0"
