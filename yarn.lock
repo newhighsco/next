@@ -1232,10 +1232,10 @@
   resolved "https://registry.yarnpkg.com/@eslint/js/-/js-10.0.1.tgz#1e8a876f50117af8ab67e47d5ad94d38d6622583"
   integrity sha512-zeR9k5pd4gxjZ0abRoIaxdc7I3nDktoXZk2qOv9gCNWx3mVwEn32VRhyLaRsDiJjTs0xq/T8mfPtyuXu7GWBcA==
 
-"@eslint/json@1.1.0":
-  version "1.1.0"
-  resolved "https://registry.yarnpkg.com/@eslint/json/-/json-1.1.0.tgz#b0f6661c34d0f0f152362f9abad022b25c7b9118"
-  integrity sha512-noH9FUYqyhZSDf3Yq5HswsjDH/MWJAatMooWwT5YgQ0XHMekoFc/iyEufP+7kD1kaOj9qwFiXySqHsKii3zmlw==
+"@eslint/json@1.2.0":
+  version "1.2.0"
+  resolved "https://registry.yarnpkg.com/@eslint/json/-/json-1.2.0.tgz#28e2531a126e887883288bc44a47e8acabc07573"
+  integrity sha512-CEFEyNgvzu8zn5QwVYDg3FaG+ZKUeUsNYitFpMYJAqoAlnw68EQgNbUfheSmexZr4n0wZPrAkPLuvsLaXO6wRw==
   dependencies:
     "@eslint/core" "^1.1.1"
     "@eslint/plugin-kit" "^0.6.1"
@@ -1753,14 +1753,14 @@
   resolved "https://registry.yarnpkg.com/@newhighsco/editor-config/-/editor-config-1.2.0.tgz#a2b4771cb2cb05bc841fdb02fdf27ce7800947a2"
   integrity sha512-dQYY50CJHdQR5X31xZM2YSTrCBE71mXuKzHTSwojWChPGJt4m/ZUNkcd4qZ+3HutuFIs+C5X+Focl/6nVIztQA==
 
-"@newhighsco/eslint-config@7.0.28":
-  version "7.0.28"
-  resolved "https://registry.yarnpkg.com/@newhighsco/eslint-config/-/eslint-config-7.0.28.tgz#0ab88c448f8c14666b1afb780abff709a74c5b30"
-  integrity sha512-U5fUJ4hggVSOh7ENexqbpeDOo9Dqii3Ekn+Hl0Zp1ju/qBga2bS+5sZR2zQpgFxw2z33qh6CnXHUdfKTSnppdQ==
+"@newhighsco/eslint-config@7.0.30":
+  version "7.0.30"
+  resolved "https://registry.yarnpkg.com/@newhighsco/eslint-config/-/eslint-config-7.0.30.tgz#aa79ca8fae43addebfcfe8c1d09cdf8a3af7b1b7"
+  integrity sha512-O0+T3eqh+lnB62mzaWu/Q5CDp9AsmVKqlZzbeABOIphh+8rDj4JHiir+B0kPelw9Amku4NY4znxI4m2qxkWU7w==
   dependencies:
     "@eslint/compat" "2.0.3"
     "@eslint/js" "10.0.1"
-    "@eslint/json" "1.1.0"
+    "@eslint/json" "1.2.0"
     eslint-config-prettier "10.1.8"
     eslint-plugin-cypress "6.2.0"
     eslint-plugin-import "2.32.0"
