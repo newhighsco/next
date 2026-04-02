@@ -1751,16 +1751,16 @@
   resolved "https://registry.yarnpkg.com/@newhighsco/editor-config/-/editor-config-1.2.0.tgz#a2b4771cb2cb05bc841fdb02fdf27ce7800947a2"
   integrity sha512-dQYY50CJHdQR5X31xZM2YSTrCBE71mXuKzHTSwojWChPGJt4m/ZUNkcd4qZ+3HutuFIs+C5X+Focl/6nVIztQA==
 
-"@newhighsco/eslint-config@7.0.37":
-  version "7.0.37"
-  resolved "https://registry.yarnpkg.com/@newhighsco/eslint-config/-/eslint-config-7.0.37.tgz#c7afa134c40750d1809438d6cc38215e61e47935"
-  integrity sha512-Rldf3Q1/6vRAqERZoiRGs6Kg3Ad/Op30AHazgaQ7ZoSNMVjvdcuS0BGQbqXyFQeYIfXqww/EIm1kghdjKWcj1Q==
+"@newhighsco/eslint-config@7.0.38":
+  version "7.0.38"
+  resolved "https://registry.yarnpkg.com/@newhighsco/eslint-config/-/eslint-config-7.0.38.tgz#9b74422247c6b372d20bde0024a27390063cfdcb"
+  integrity sha512-c3AGOF3tp0Ga9ey2HBM5Ht1fkFTG0eRzcGbEXq/i6E9PUV1HGBEDT+q+FymFIU7igZzYxfUZkqig3OKmWDz6aw==
   dependencies:
     "@eslint/compat" "2.0.3"
     "@eslint/js" "10.0.1"
     "@eslint/json" "1.2.0"
     eslint-config-prettier "10.1.8"
-    eslint-plugin-cypress "6.2.1"
+    eslint-plugin-cypress "6.2.2"
     eslint-plugin-import "2.32.0"
     eslint-plugin-jsx-a11y "6.10.2"
     eslint-plugin-prettier "5.5.5"
@@ -4801,12 +4801,12 @@ eslint-module-utils@^2.12.1:
   dependencies:
     debug "^3.2.7"
 
-eslint-plugin-cypress@6.2.1:
-  version "6.2.1"
-  resolved "https://registry.yarnpkg.com/eslint-plugin-cypress/-/eslint-plugin-cypress-6.2.1.tgz#a607cffe9967b941c1368bc4d0ce79e35d15f40f"
-  integrity sha512-pbjvNE2GKG3hlerT3SIQcRnsMfzFnpAyg0V17D+Gm/a18cxBOVLUxWWANAs7LzykdTPn+SKgzczhF0+IODFs7w==
+eslint-plugin-cypress@6.2.2:
+  version "6.2.2"
+  resolved "https://registry.yarnpkg.com/eslint-plugin-cypress/-/eslint-plugin-cypress-6.2.2.tgz#26c7ab6c6dedc2ad4791ac939ef8b5386cd04f1d"
+  integrity sha512-lOhmMWb5/+zv28EaDOT7C3lgGgWL8DMZglTUNUaaGfleK89joDBRXX8LV01ygx3dK1RbvG54b8t025/5QEUKgg==
   dependencies:
-    globals "^17.3.0"
+    globals "^17.4.0"
 
 eslint-plugin-import@2.32.0:
   version "2.32.0"
@@ -5554,7 +5554,7 @@ global-directory@^4.0.1:
   dependencies:
     ini "4.1.1"
 
-globals@^17.3.0:
+globals@^17.4.0:
   version "17.4.0"
   resolved "https://registry.yarnpkg.com/globals/-/globals-17.4.0.tgz#33d7d297ed1536b388a0e2f4bcd0ff19c8ff91b5"
   integrity sha512-hjrNztw/VajQwOLsMNT1cbJiH2muO3OROCHnbehc8eY5JyD2gqz4AcMHPqgaOR59DjgUjYAYLeH699g/eWi2jw==
