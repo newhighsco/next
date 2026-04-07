@@ -1759,10 +1759,10 @@
   resolved "https://registry.yarnpkg.com/@newhighsco/editor-config/-/editor-config-1.2.0.tgz#a2b4771cb2cb05bc841fdb02fdf27ce7800947a2"
   integrity sha512-dQYY50CJHdQR5X31xZM2YSTrCBE71mXuKzHTSwojWChPGJt4m/ZUNkcd4qZ+3HutuFIs+C5X+Focl/6nVIztQA==
 
-"@newhighsco/eslint-config@7.0.41":
-  version "7.0.41"
-  resolved "https://registry.yarnpkg.com/@newhighsco/eslint-config/-/eslint-config-7.0.41.tgz#4f5b4c12d9b05897ccd6f3f751a4bafecab8141c"
-  integrity sha512-ZknGI/QI9Ln1jSdW9aEir1+7FVc3QCtzqpxtCc3hSazIt8qrrWaN8h1TqmOIHStA1/BzW4rhZaeRP8FipsxUeQ==
+"@newhighsco/eslint-config@7.0.42":
+  version "7.0.42"
+  resolved "https://registry.yarnpkg.com/@newhighsco/eslint-config/-/eslint-config-7.0.42.tgz#739ea767aa62ac8025d627d3d7e47ca3d995337a"
+  integrity sha512-l1wmtsLEntNwqecRMBrHXshDMEmHzGf0zGaiSh+3E3TY1W2HYAQtVdsSIRdyzOCkVmbVy6sGhHTbmX/V3ogMWQ==
   dependencies:
     "@eslint/compat" "2.0.4"
     "@eslint/js" "10.0.1"
@@ -1774,7 +1774,7 @@
     eslint-plugin-prettier "5.5.5"
     eslint-plugin-react "7.37.5"
     eslint-plugin-react-hooks "7.0.1"
-    eslint-plugin-simple-import-sort "12.1.1"
+    eslint-plugin-simple-import-sort "13.0.0"
     eslint-plugin-storybook "10.3.4"
     eslint-plugin-testing-library "7.16.2"
     find-up "8.0.0"
@@ -4905,10 +4905,10 @@ eslint-plugin-react@7.37.5:
     string.prototype.matchall "^4.0.12"
     string.prototype.repeat "^1.0.0"
 
-eslint-plugin-simple-import-sort@12.1.1:
-  version "12.1.1"
-  resolved "https://registry.yarnpkg.com/eslint-plugin-simple-import-sort/-/eslint-plugin-simple-import-sort-12.1.1.tgz#e64bfdaf91c5b98a298619aa634a9f7aa43b709e"
-  integrity sha512-6nuzu4xwQtE3332Uz0to+TxDQYRLTKRESSc2hefVT48Zc8JthmN23Gx9lnYhu0FtkRSL1oxny3kJ2aveVhmOVA==
+eslint-plugin-simple-import-sort@13.0.0:
+  version "13.0.0"
+  resolved "https://registry.yarnpkg.com/eslint-plugin-simple-import-sort/-/eslint-plugin-simple-import-sort-13.0.0.tgz#93936354367d8bb42c1b9b4c13c92eb29fffd2a5"
+  integrity sha512-McAc+/Nlvcg4byY/CABGH8kqnefWBj8s3JA2okEtz8ixbECQgU46p0HkTUKa4YS7wvgGceimlc34p1nXqbWqtA==
 
 eslint-plugin-storybook@10.3.4:
   version "10.3.4"
