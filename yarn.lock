@@ -1780,10 +1780,10 @@
     find-up "8.0.0"
     typescript-eslint "8.58.1"
 
-"@newhighsco/prettier-config@2.3.3":
-  version "2.3.3"
-  resolved "https://registry.yarnpkg.com/@newhighsco/prettier-config/-/prettier-config-2.3.3.tgz#26a8d931d0b58706c0c174ed19812cebb66a3cbe"
-  integrity sha512-u8K9jmr9u0P41ukQvU2rauzCAudDLrjSsMF9Vv8H/T0AE5MWPKEJRUJt/BDmADls+4wDgeXJ8wftpp1zWTSi8w==
+"@newhighsco/prettier-config@2.3.4":
+  version "2.3.4"
+  resolved "https://registry.yarnpkg.com/@newhighsco/prettier-config/-/prettier-config-2.3.4.tgz#6ca20216f95529d767aa954c7886019633768ac6"
+  integrity sha512-V85wBhI4H/+Rr1l/xodW8yUgGzST+Hktn59bzJso6Q/IuoWdA9y4Ik5qjHMhy9siB60ndYRfXWoVVMw55CIwtg==
 
 "@newhighsco/release-config@1.4.26":
   version "1.4.26"
