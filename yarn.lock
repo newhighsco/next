@@ -1759,10 +1759,10 @@
   resolved "https://registry.yarnpkg.com/@newhighsco/editor-config/-/editor-config-1.2.0.tgz#a2b4771cb2cb05bc841fdb02fdf27ce7800947a2"
   integrity sha512-dQYY50CJHdQR5X31xZM2YSTrCBE71mXuKzHTSwojWChPGJt4m/ZUNkcd4qZ+3HutuFIs+C5X+Focl/6nVIztQA==
 
-"@newhighsco/eslint-config@7.0.48":
-  version "7.0.48"
-  resolved "https://registry.yarnpkg.com/@newhighsco/eslint-config/-/eslint-config-7.0.48.tgz#6f3c0da118ea1fc26f889ba568e6b0d32c9f81ae"
-  integrity sha512-KbiG7uYIPzUOFZoHJTCXY9/kJsQw7oGMxJWnmPAhZeZ9mS5pupKPZfSHPjWMQAmfxXEuhfpMlua6GCQohij4qQ==
+"@newhighsco/eslint-config@7.0.49":
+  version "7.0.49"
+  resolved "https://registry.yarnpkg.com/@newhighsco/eslint-config/-/eslint-config-7.0.49.tgz#a197371416a4d9211fbc4fa657781706473f081b"
+  integrity sha512-FXTX6t+Zb6YiCLY/MNZZV+EcufQHuujx/6EU+HttKtjsc2tu083jVa6sW88z3koMK4oACXKu8U1oqUWnp+jR9w==
   dependencies:
     "@eslint/compat" "2.0.5"
     "@eslint/js" "10.0.1"
@@ -1773,7 +1773,7 @@
     eslint-plugin-jsx-a11y "6.10.2"
     eslint-plugin-prettier "5.5.5"
     eslint-plugin-react "7.37.5"
-    eslint-plugin-react-hooks "7.0.1"
+    eslint-plugin-react-hooks "7.1.0"
     eslint-plugin-simple-import-sort "13.0.0"
     eslint-plugin-storybook "10.3.5"
     eslint-plugin-testing-library "7.16.2"
@@ -4869,10 +4869,10 @@ eslint-plugin-prettier@5.5.5:
     prettier-linter-helpers "^1.0.1"
     synckit "^0.11.12"
 
-eslint-plugin-react-hooks@7.0.1:
-  version "7.0.1"
-  resolved "https://registry.yarnpkg.com/eslint-plugin-react-hooks/-/eslint-plugin-react-hooks-7.0.1.tgz#66e258db58ece50723ef20cc159f8aa908219169"
-  integrity sha512-O0d0m04evaNzEPoSW+59Mezf8Qt0InfgGIBJnpC0h3NH/WjUAR7BIKUfysC6todmtiZ/A0oUVS8Gce0WhBrHsA==
+eslint-plugin-react-hooks@7.1.0:
+  version "7.1.0"
+  resolved "https://registry.yarnpkg.com/eslint-plugin-react-hooks/-/eslint-plugin-react-hooks-7.1.0.tgz#46f19a653041fab6fc4b6d66873cd387f779e6ad"
+  integrity sha512-LDicyhrRFrIaheDYryeM2W8gWyZXnAs4zIr2WVPiOSeTmIu2RjR4x/9N0xLaRWZ+9hssBDGo3AadcohuzAvSvg==
   dependencies:
     "@babel/core" "^7.24.4"
     "@babel/parser" "^7.24.4"
