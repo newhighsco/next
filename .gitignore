@@ -16,6 +16,7 @@ Thumbs.db
 .Trashes
 
 # Package managers
+.yarn/install-state.gz
 node_modules
 npm-debug.log
 yarn-error.log

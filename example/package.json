@@ -3,7 +3,6 @@
   "version": "1.0.0",
   "author": "New High Score",
   "license": "ISC",
-  "private": "true",
   "scripts": {
     "start": "next dev --webpack",
     "build": "next build --webpack"

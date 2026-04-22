@@ -17,16 +17,6 @@
   "files": [
     "src/webpack.js"
   ],
-  "scripts": {
-    "prepare": "husky",
-    "pretest": "yarn lint",
-    "test": "jest --runInBand",
-    "test:list": "jest --listTests",
-    "lint": "concurrently yarn:lint:*",
-    "lint:js": "eslint --cache .",
-    "format": "concurrently yarn:format:*",
-    "format:js": "yarn lint:js --fix"
-  },
   "dependencies": {
     "@svgr/webpack": "8.1.0",
     "file-loader": "6.2.0",
