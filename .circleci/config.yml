@@ -1,7 +1,7 @@
 version: 2.1
 
 orbs:
-  newhighsco: newhighsco/orb@1.14.0
+  newhighsco: newhighsco/orb@dev:alpha
 
 workflows:
   version: 2
@@ -11,7 +11,6 @@ workflows:
           name: setup
       - newhighsco/test:
           name: test
-          list-command: yarn test:list
           rerun-only-failed: true
           requires:
             - setup
