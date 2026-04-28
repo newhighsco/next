@@ -35,7 +35,7 @@
     "@commitlint/cli": "20.5.2",
     "@newhighsco/commitlint-config": "1.1.53",
     "@newhighsco/editor-config": "1.2.0",
-    "@newhighsco/eslint-config": "7.0.53",
+    "@newhighsco/eslint-config": "7.0.54",
     "@newhighsco/prettier-config": "2.3.5",
     "@newhighsco/release-config": "1.4.27",
     "@newhighsco/yarn-plugin-preset": "1.1.3",
