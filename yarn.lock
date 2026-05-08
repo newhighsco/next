@@ -2451,12 +2451,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@newhighsco/commitlint-config@npm:1.1.54":
-  version: 1.1.54
-  resolution: "@newhighsco/commitlint-config@npm:1.1.54"
+"@newhighsco/commitlint-config@npm:1.1.55":
+  version: 1.1.55
+  resolution: "@newhighsco/commitlint-config@npm:1.1.55"
   peerDependencies:
-    "@commitlint/cli": 20.5.3
-  checksum: 10c0/ebcb4ffc8097954df921947e08239abc98b4a690ac0164e166e590058fe555f7735a1165c31b762be8f7f4d30b1a1f6b6c8076b12f931bd7f6348b0e5fdd2e99
+    "@commitlint/cli": 21.0.0
+  checksum: 10c0/16bab650d16efd4919d2af3380cecdb1bc950ab01430e599d272111f246fcf95faa6dcf2033d2f85305ab8d59160a4c0c494240456135723728a0de1d171038e
   languageName: node
   linkType: hard
 
@@ -2519,7 +2519,7 @@ __metadata:
     "@babel/core": "npm:7.29.0"
     "@babel/preset-env": "npm:7.29.5"
     "@commitlint/cli": "npm:20.5.3"
-    "@newhighsco/commitlint-config": "npm:1.1.54"
+    "@newhighsco/commitlint-config": "npm:1.1.55"
     "@newhighsco/editor-config": "npm:1.2.0"
     "@newhighsco/eslint-config": "npm:7.0.59"
     "@newhighsco/prettier-config": "npm:2.3.5"
