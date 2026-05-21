@@ -2523,7 +2523,7 @@ __metadata:
     "@newhighsco/eslint-config": "npm:7.0.63"
     "@newhighsco/prettier-config": "npm:2.3.5"
     "@newhighsco/release-config": "npm:1.4.28"
-    "@newhighsco/yarn-plugin-preset": "npm:1.1.3"
+    "@newhighsco/yarn-plugin-preset": "npm:1.1.4"
     "@qiwi/multi-semantic-release": "npm:7.1.2"
     concurrently: "npm:9.2.1"
     eslint: "npm:10.4.0"
@@ -2564,13 +2564,13 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@newhighsco/yarn-plugin-preset@npm:1.1.3":
-  version: 1.1.3
-  resolution: "@newhighsco/yarn-plugin-preset@npm:1.1.3"
+"@newhighsco/yarn-plugin-preset@npm:1.1.4":
+  version: 1.1.4
+  resolution: "@newhighsco/yarn-plugin-preset@npm:1.1.4"
   dependencies:
-    "@yarnpkg/core": "npm:4.7.0"
+    "@yarnpkg/core": "npm:4.8.0"
     "@yarnpkg/shell": "npm:4.1.3"
-  checksum: 10c0/991a67418ad8dc2d7a2f0e4cf1c781a37607a8e70b2d2fad92f347ef5a696fc08a264cfe466989e0e365377c29f69d16869e78d01e2f8f748cb9d050ac67cc4d
+  checksum: 10c0/205cc1cf460fff98d2153e4f544ce5c8b991d6ea1e8c7c03734c5413f6165998511a722d40025ce2ab84ee090bb1ed6848b556faf864ab4c70fad4bfc1bfaf40
   languageName: node
   linkType: hard
 
@@ -4520,9 +4520,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@yarnpkg/core@npm:4.7.0":
-  version: 4.7.0
-  resolution: "@yarnpkg/core@npm:4.7.0"
+"@yarnpkg/core@npm:4.8.0":
+  version: 4.8.0
+  resolution: "@yarnpkg/core@npm:4.8.0"
   dependencies:
     "@arcanis/slice-ansi": "npm:^1.1.1"
     "@types/semver": "npm:^7.1.0"
@@ -4550,7 +4550,7 @@ __metadata:
     tinylogic: "npm:^2.0.0"
     treeify: "npm:^1.1.0"
     tslib: "npm:^2.4.0"
-  checksum: 10c0/242ca7066467b55839f31ab7445deae4ae76076449c481d2dfbc5faaba2c832bce922d633f962f575ff3d4e22480336d933a3f3dbc85246c7e73d6dff98278aa
+  checksum: 10c0/d8bb108dd5d40d7e04422bdd7df1125bde629757afa76dce3ce393d08217891a2fd3f3b73e39c07f04d32f39c7e5f6ae691164e61bea3e1c75c6853559fa5e7d
   languageName: node
   linkType: hard
 
