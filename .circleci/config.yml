@@ -17,6 +17,8 @@ workflows:
       - newhighsco/release:
           name: release
           command: yarn multi-semantic-release
+          context:
+            - release
           requires:
             - test
           filters:
