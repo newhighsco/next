@@ -1474,6 +1474,16 @@ __metadata:
   languageName: node
   linkType: hard
 
+"@commitlint/config-conventional@npm:21.0.1":
+  version: 21.0.1
+  resolution: "@commitlint/config-conventional@npm:21.0.1"
+  dependencies:
+    "@commitlint/types": "npm:^21.0.1"
+    conventional-changelog-conventionalcommits: "npm:^9.2.0"
+  checksum: 10c0/b713491392ce561a882071435ccbdfe30c7adc389674d6e3f4ece4ddf0056e21310ec086e2e6433e9b6620c532b53bbadae59ff38220ba82fd34911e69e690b8
+  languageName: node
+  linkType: hard
+
 "@commitlint/config-validator@npm:^21.0.1":
   version: 21.0.1
   resolution: "@commitlint/config-validator@npm:21.0.1"
@@ -2450,12 +2460,14 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@newhighsco/commitlint-config@npm:1.1.56":
-  version: 1.1.56
-  resolution: "@newhighsco/commitlint-config@npm:1.1.56"
+"@newhighsco/commitlint-config@npm:1.2.0":
+  version: 1.2.0
+  resolution: "@newhighsco/commitlint-config@npm:1.2.0"
+  dependencies:
+    "@commitlint/config-conventional": "npm:21.0.1"
   peerDependencies:
     "@commitlint/cli": 21.0.1
-  checksum: 10c0/d1acbc1e295a171e71a55bc7319dcd4f3bd1aab72d28553a69af68018475c6ead229233b1cc0abfbcb080d68c8ed6c76aa58d5f35ec63c862b68ca92a56f9d18
+  checksum: 10c0/7eeca49bbe60545fa00a622ec6c7e3fa51c18661928bac8e2eac66c03c0d9ad623a73ec1b74b029d43eaa49d4ffa79d23f2fb61f2dafb5b689d5151421318921
   languageName: node
   linkType: hard
 
@@ -2518,11 +2530,11 @@ __metadata:
     "@babel/core": "npm:7.29.7"
     "@babel/preset-env": "npm:7.29.7"
     "@commitlint/cli": "npm:21.0.1"
-    "@newhighsco/commitlint-config": "npm:1.1.56"
+    "@newhighsco/commitlint-config": "npm:1.2.0"
     "@newhighsco/editor-config": "npm:1.2.0"
     "@newhighsco/eslint-config": "npm:7.1.2"
     "@newhighsco/prettier-config": "npm:2.3.5"
-    "@newhighsco/release-config": "npm:1.4.28"
+    "@newhighsco/release-config": "npm:1.5.0"
     "@newhighsco/yarn-plugin-preset": "npm:1.1.4"
     "@qiwi/multi-semantic-release": "npm:7.1.2"
     concurrently: "npm:9.2.1"
@@ -2544,9 +2556,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@newhighsco/release-config@npm:1.4.28":
-  version: 1.4.28
-  resolution: "@newhighsco/release-config@npm:1.4.28"
+"@newhighsco/release-config@npm:1.5.0":
+  version: 1.5.0
+  resolution: "@newhighsco/release-config@npm:1.5.0"
   dependencies:
     "@semantic-release/changelog": "npm:6.0.3"
     "@semantic-release/commit-analyzer": "npm:13.0.1"
@@ -2560,7 +2572,7 @@ __metadata:
   peerDependenciesMeta:
     semantic-release-circleci-orb:
       optional: true
-  checksum: 10c0/0ce3479933f5e7321b72b77e3ba7150ef36a9d3df0bd7c0082a5bcaacc0b7971e13e80e943fa56cb70b2a32c391f8af2065129d8d2547f9ba088b38d6e48528d
+  checksum: 10c0/17d5c864cf9574284c634f38c216aa6e17530a6fa35c950aba45f186b58576f0af772928fdbf882835998175053c1ceb37dde42eca052f416e14cd10d8729dee
   languageName: node
   linkType: hard
 
@@ -5888,6 +5900,15 @@ __metadata:
   dependencies:
     compare-func: "npm:^2.0.0"
   checksum: 10c0/a3776ff7066004040d7d25d2b72fe8f9fee4f1fc5dc6c929ab281899b8c7a6dd6408130064344515b37a4f91d2a9fb90b69cce0bab55415c72a8ba3ee801c2b6
+  languageName: node
+  linkType: hard
+
+"conventional-changelog-conventionalcommits@npm:^9.2.0":
+  version: 9.3.1
+  resolution: "conventional-changelog-conventionalcommits@npm:9.3.1"
+  dependencies:
+    compare-func: "npm:^2.0.0"
+  checksum: 10c0/e3d0dfe5680899da3660a7fbc859de1a92dd9358dc497624c3582596173713a80dcc8236d844116a3ba8403350e244c007c0c7fa5796631aea19e464cc6c2f44
   languageName: node
   linkType: hard
 
