@@ -2528,7 +2528,7 @@ __metadata:
     "@newhighsco/release-config": "npm:1.5.0"
     "@newhighsco/yarn-plugin-preset": "npm:1.1.4"
     "@qiwi/multi-semantic-release": "npm:7.1.2"
-    concurrently: "npm:10.0.1"
+    concurrently: "npm:10.0.3"
     eslint: "npm:10.4.1"
     husky: "npm:9.1.7"
     jest: "npm:30.4.2"
@@ -5835,9 +5835,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"concurrently@npm:10.0.1":
-  version: 10.0.1
-  resolution: "concurrently@npm:10.0.1"
+"concurrently@npm:10.0.3":
+  version: 10.0.3
+  resolution: "concurrently@npm:10.0.3"
   dependencies:
     chalk: "npm:5.6.2"
     rxjs: "npm:7.8.2"
@@ -5848,7 +5848,7 @@ __metadata:
   bin:
     conc: dist/bin/index.js
     concurrently: dist/bin/index.js
-  checksum: 10c0/c42e32da08bf6af50c627e09f2d544bcede922a68440116643fd4cdbe8cd3e564fbe1f9ae7d1c3af0aaaad29c409abec02e11b9eeea1e66325014740c6cf384f
+  checksum: 10c0/59a4d9a7946fdbfbfa380543e5e5a40eb5b993cde18862126e8c7fe117813ebd26d67aa67b64781543c0e357eb23fb551f303b622e439354398ff0d7d71735b6
   languageName: node
   linkType: hard
 
