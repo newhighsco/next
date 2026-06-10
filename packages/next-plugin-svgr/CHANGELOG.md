@@ -1,3 +1,9 @@
+## @newhighsco/next-plugin-svgr [3.0.172](https://github.com/newhighsco/next/compare/@newhighsco/next-plugin-svgr@3.0.171...@newhighsco/next-plugin-svgr@3.0.172) (2026-06-10)
+
+### Bug Fixes
+
+* **deps:** update nextjs packages to v16.2.9 ([#1935](https://github.com/newhighsco/next/issues/1935)) ([58deaff](https://github.com/newhighsco/next/commit/58deaffbb495e94ca5f4fe8272370a8009637a6e))
+
 ## @newhighsco/next-plugin-svgr [3.0.171](https://github.com/newhighsco/next/compare/@newhighsco/next-plugin-svgr@3.0.170...@newhighsco/next-plugin-svgr@3.0.171) (2026-06-02)
 
 ### Bug Fixes
