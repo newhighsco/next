@@ -2525,7 +2525,7 @@ __metadata:
     "@newhighsco/editor-config": "npm:1.2.0"
     "@newhighsco/eslint-config": "npm:7.1.9"
     "@newhighsco/prettier-config": "npm:2.3.6"
-    "@newhighsco/release-config": "npm:1.5.0"
+    "@newhighsco/release-config": "npm:1.5.1"
     "@newhighsco/yarn-plugin-preset": "npm:1.1.4"
     "@qiwi/multi-semantic-release": "npm:7.1.2"
     concurrently: "npm:10.0.3"
@@ -2547,9 +2547,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@newhighsco/release-config@npm:1.5.0":
-  version: 1.5.0
-  resolution: "@newhighsco/release-config@npm:1.5.0"
+"@newhighsco/release-config@npm:1.5.1":
+  version: 1.5.1
+  resolution: "@newhighsco/release-config@npm:1.5.1"
   dependencies:
     "@semantic-release/changelog": "npm:6.0.3"
     "@semantic-release/commit-analyzer": "npm:13.0.1"
@@ -2558,12 +2558,12 @@ __metadata:
     "@semantic-release/npm": "npm:13.1.5"
     "@semantic-release/release-notes-generator": "npm:14.1.1"
   peerDependencies:
-    semantic-release: 25.0.3
+    semantic-release: 25.0.5
     semantic-release-circleci-orb: 1.1.1
   peerDependenciesMeta:
     semantic-release-circleci-orb:
       optional: true
-  checksum: 10c0/17d5c864cf9574284c634f38c216aa6e17530a6fa35c950aba45f186b58576f0af772928fdbf882835998175053c1ceb37dde42eca052f416e14cd10d8729dee
+  checksum: 10c0/5a7b23c3dc7c1f904d4ed5bf4c12c74f5f0ee02d1428ca0b98372bbf9ca3cd3e315ca53fd5f80ee70e6eedd33d3ff37b9713cd8014e664199b6f350d60e4ab52
   languageName: node
   linkType: hard
 
