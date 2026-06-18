@@ -78,7 +78,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@babel/compat-data@npm:^8.0.0, @babel/compat-data@npm:^8.0.0-rc.6":
+"@babel/compat-data@npm:^8.0.0":
   version: 8.0.0
   resolution: "@babel/compat-data@npm:8.0.0"
   checksum: 10c0/8d934415a308cf6c893d815b1dbb79faf7678c1e489934e81025c61673bf98ef88770b42297492bbd4c014978688012aa635e855bf8553b96ec8287bddfbae89
@@ -203,19 +203,6 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@babel/helper-compilation-targets@npm:^8.0.0-rc.3 <8.0.0":
-  version: 8.0.0-rc.6
-  resolution: "@babel/helper-compilation-targets@npm:8.0.0-rc.6"
-  dependencies:
-    "@babel/compat-data": "npm:^8.0.0-rc.6"
-    "@babel/helper-validator-option": "npm:^8.0.0-rc.6"
-    browserslist: "npm:^4.24.0"
-    lru-cache: "npm:^7.14.1"
-    semver: "npm:^7.7.3"
-  checksum: 10c0/1dbb2bfdd67ebe4b9564acaf8c058a007dbfa7cec6d5fe42ac6bc61cd9d388156bae0ddcd8daf354a75b62d0b4dcae23148521d790735baf788e7d425b1590e4
-  languageName: node
-  linkType: hard
-
 "@babel/helper-create-class-features-plugin@npm:^7.29.7":
   version: 7.29.7
   resolution: "@babel/helper-create-class-features-plugin@npm:7.29.7"
@@ -291,16 +278,16 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@babel/helper-define-polyfill-provider@npm:^1.0.0-rc.2":
-  version: 1.0.0-rc.2
-  resolution: "@babel/helper-define-polyfill-provider@npm:1.0.0-rc.2"
+"@babel/helper-define-polyfill-provider@npm:^1.0.0":
+  version: 1.0.0
+  resolution: "@babel/helper-define-polyfill-provider@npm:1.0.0"
   dependencies:
-    "@babel/helper-compilation-targets": "npm:^8.0.0-rc.3 <8.0.0"
-    "@babel/helper-plugin-utils": "npm:^8.0.0-rc.3 <8.0.0"
+    "@babel/helper-compilation-targets": "npm:^8.0.0"
+    "@babel/helper-plugin-utils": "npm:^8.0.0"
     lodash.debounce: "npm:^4.0.8"
   peerDependencies:
-    "@babel/core": ^7.4.0 || ^8.0.0-rc.3
-  checksum: 10c0/ba3027e62c6bd796532acb94c70d44a4b21fe5edddfaa1d84d0729d7c1301ce5af0c5481650377d77ac4f915e1d6ea6595f4ddcf328c0c5f9831ab52c47854e5
+    "@babel/core": ^7.4.0 || ^8.0.0
+  checksum: 10c0/9a422f6b8c5f3fb2cb862d189c19b521f4bae6f555e196e6635f6b7f870178f5dee14e2b8e51695bd5351ae2f6073f4ff1161dc873d45e9462534ce7240c6ad3
   languageName: node
   linkType: hard
 
@@ -409,16 +396,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@babel/helper-plugin-utils@npm:^8.0.0-rc.3 <8.0.0":
-  version: 8.0.0-rc.6
-  resolution: "@babel/helper-plugin-utils@npm:8.0.0-rc.6"
-  peerDependencies:
-    "@babel/core": ^8.0.0-rc.6
-  checksum: 10c0/7de8da963379d6bc4a68a957bb3175cdf26404f13506f1a5fd84894446bf765d3799d1a5818c7c13ef82e8650d5e3b43c48606ad6544af37ecbb82d2b9369144
-  languageName: node
-  linkType: hard
-
-"@babel/helper-plugin-utils@npm:^8.0.1":
+"@babel/helper-plugin-utils@npm:^8.0.0, @babel/helper-plugin-utils@npm:^8.0.1":
   version: 8.0.1
   resolution: "@babel/helper-plugin-utils@npm:8.0.1"
   peerDependencies:
@@ -534,7 +512,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@babel/helper-validator-option@npm:^8.0.0, @babel/helper-validator-option@npm:^8.0.0-rc.6":
+"@babel/helper-validator-option@npm:^8.0.0":
   version: 8.0.0
   resolution: "@babel/helper-validator-option@npm:8.0.0"
   checksum: 10c0/eb466b464479f75c15ba06f6c53862f10d90740350c9203b3d81c6f33d4193bf0a7b7b89de901f256fb639a1346475b48616734af89906d6b4fcf9a856d9f1f1
@@ -1958,14 +1936,14 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@babel/plugin-transform-regenerator@npm:^8.0.1":
-  version: 8.0.1
-  resolution: "@babel/plugin-transform-regenerator@npm:8.0.1"
+"@babel/plugin-transform-regenerator@npm:^8.0.2":
+  version: 8.0.2
+  resolution: "@babel/plugin-transform-regenerator@npm:8.0.2"
   dependencies:
     "@babel/helper-plugin-utils": "npm:^8.0.1"
   peerDependencies:
     "@babel/core": ^8.0.0
-  checksum: 10c0/b5b306ff1c00f339676a21df1c74ce79109f0e89b4666646a786dc45054e7c0c85bb3e2fb22149656d75534875b3bc0a2d45dbb3f34a58f5c5293658e8dc6788
+  checksum: 10c0/8c25e3ead0507c3b7e587156b09d23015d4456bb8942a75df0db046b8cc60b328ed39f40d7d2eb689f69f78a4424fd1e48d1770aeae8ef0f6a8e6ab23773a677
   languageName: node
   linkType: hard
 
@@ -2236,9 +2214,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@babel/preset-env@npm:8.0.1":
-  version: 8.0.1
-  resolution: "@babel/preset-env@npm:8.0.1"
+"@babel/preset-env@npm:8.0.2":
+  version: 8.0.2
+  resolution: "@babel/preset-env@npm:8.0.2"
   dependencies:
     "@babel/compat-data": "npm:^8.0.0"
     "@babel/helper-compilation-targets": "npm:^8.0.0"
@@ -2289,7 +2267,7 @@ __metadata:
     "@babel/plugin-transform-private-methods": "npm:^8.0.1"
     "@babel/plugin-transform-private-property-in-object": "npm:^8.0.1"
     "@babel/plugin-transform-property-literals": "npm:^8.0.1"
-    "@babel/plugin-transform-regenerator": "npm:^8.0.1"
+    "@babel/plugin-transform-regenerator": "npm:^8.0.2"
     "@babel/plugin-transform-regexp-modifiers": "npm:^8.0.1"
     "@babel/plugin-transform-reserved-words": "npm:^8.0.1"
     "@babel/plugin-transform-shorthand-properties": "npm:^8.0.1"
@@ -2301,13 +2279,13 @@ __metadata:
     "@babel/plugin-transform-unicode-property-regex": "npm:^8.0.1"
     "@babel/plugin-transform-unicode-regex": "npm:^8.0.1"
     "@babel/plugin-transform-unicode-sets-regex": "npm:^8.0.1"
-    "@babel/preset-modules": "npm:0.1.6-no-external-plugins"
-    babel-plugin-polyfill-corejs3: "npm:^1.0.0-rc.2"
+    "@babel/preset-modules": "npm:^0.2.0"
+    babel-plugin-polyfill-corejs3: "npm:^1.0.0"
     core-js-compat: "npm:^3.48.0"
     semver: "npm:^7.7.3"
   peerDependencies:
     "@babel/core": ^8.0.0
-  checksum: 10c0/4071896ebe8a9cd6378197d272652c6c2eb04851f0492548e6668879991272046e3b0b49d3b6daab406b7b7891d3771331a45bfcbcfe0b530408580d1b65a52d
+  checksum: 10c0/95afc8262b23e7714d6dc0cca5ee7eaf69efc7dc705ac926fd507e89829e87c5b1019e78b3e89eac617fe432bec156f5902d92f292b7007ba21eb92a66bd8ef1
   languageName: node
   linkType: hard
 
@@ -2402,6 +2380,21 @@ __metadata:
   peerDependencies:
     "@babel/core": ^7.0.0-0 || ^8.0.0-0 <8.0.0
   checksum: 10c0/9d02f70d7052446c5f3a4fb39e6b632695fb6801e46d31d7f7c5001f7c18d31d1ea8369212331ca7ad4e7877b73231f470b0d559162624128f1b80fe591409e6
+  languageName: node
+  linkType: hard
+
+"@babel/preset-modules@npm:^0.2.0":
+  version: 0.2.0
+  resolution: "@babel/preset-modules@npm:0.2.0"
+  dependencies:
+    "@babel/helper-plugin-utils": "npm:^8.0.1"
+    "@babel/plugin-transform-dotall-regex": "npm:^8.0.1"
+    "@babel/plugin-transform-unicode-property-regex": "npm:^8.0.1"
+    "@babel/types": "npm:^8.0.0"
+    esutils: "npm:^2.0.2"
+  peerDependencies:
+    "@babel/core": ^8.0.0
+  checksum: 10c0/03f8533661c61a469b4872385f339d1b4aef2e8e39abe53b1a6fadf840d7786c92843160152c0596cb4b539b810e3750299e621c18f5592eb386e38d292b67aa
   languageName: node
   linkType: hard
 
@@ -3593,7 +3586,7 @@ __metadata:
   resolution: "@newhighsco/next@workspace:."
   dependencies:
     "@babel/core": "npm:8.0.1"
-    "@babel/preset-env": "npm:8.0.1"
+    "@babel/preset-env": "npm:8.0.2"
     "@commitlint/cli": "npm:21.0.2"
     "@newhighsco/commitlint-config": "npm:1.3.1"
     "@newhighsco/editor-config": "npm:1.2.0"
@@ -6222,15 +6215,15 @@ __metadata:
   languageName: node
   linkType: hard
 
-"babel-plugin-polyfill-corejs3@npm:^1.0.0-rc.2":
-  version: 1.0.0-rc.2
-  resolution: "babel-plugin-polyfill-corejs3@npm:1.0.0-rc.2"
+"babel-plugin-polyfill-corejs3@npm:^1.0.0":
+  version: 1.0.0
+  resolution: "babel-plugin-polyfill-corejs3@npm:1.0.0"
   dependencies:
-    "@babel/helper-define-polyfill-provider": "npm:^1.0.0-rc.2"
+    "@babel/helper-define-polyfill-provider": "npm:^1.0.0"
     core-js-compat: "npm:^3.48.0"
   peerDependencies:
-    "@babel/core": ^7.4.0 || ^8.0.0-rc.3
-  checksum: 10c0/9390b248bc8937a35b21d2c6b3bed7ba786998f29e3005d3252208330f003bef9defd71e25a8724ee2b5feeef785648a0624ff43788f55896b0e332925ec69da
+    "@babel/core": ^7.4.0 || ^8.0.0
+  checksum: 10c0/265a1bd798dfde9fd900b341476d5e436667735ded7ef7f70375ff30620dad6634acc81d969ac20bd11ddc27c921ef26aa2aa5f563ad8e998e3d1ef6b665f5f1
   languageName: node
   linkType: hard
 
@@ -11225,7 +11218,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"lru-cache@npm:^7.14.1, lru-cache@npm:^7.4.4, lru-cache@npm:^7.5.1, lru-cache@npm:^7.7.1":
+"lru-cache@npm:^7.4.4, lru-cache@npm:^7.5.1, lru-cache@npm:^7.7.1":
   version: 7.18.3
   resolution: "lru-cache@npm:7.18.3"
   checksum: 10c0/b3a452b491433db885beed95041eb104c157ef7794b9c9b4d647be503be91769d11206bb573849a16b4cc0d03cbd15ffd22df7960997788b74c1d399ac7a4fed
