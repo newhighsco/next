@@ -3592,7 +3592,7 @@ __metadata:
     "@newhighsco/commitlint-config": "npm:1.3.2"
     "@newhighsco/editor-config": "npm:1.2.0"
     "@newhighsco/eslint-config": "npm:7.1.15"
-    "@newhighsco/prettier-config": "npm:2.3.7"
+    "@newhighsco/prettier-config": "npm:2.3.8"
     "@newhighsco/release-config": "npm:1.5.1"
     "@newhighsco/yarn-plugin-preset": "npm:1.1.4"
     "@qiwi/multi-semantic-release": "npm:7.1.2"
@@ -3606,12 +3606,12 @@ __metadata:
   languageName: unknown
   linkType: soft
 
-"@newhighsco/prettier-config@npm:2.3.7":
-  version: 2.3.7
-  resolution: "@newhighsco/prettier-config@npm:2.3.7"
+"@newhighsco/prettier-config@npm:2.3.8":
+  version: 2.3.8
+  resolution: "@newhighsco/prettier-config@npm:2.3.8"
   peerDependencies:
-    prettier: 3.8.5
-  checksum: 10c0/c1245f65a7e49aaf521e7771518a42664d1cc165246d6183aaff1f1df2e93860c5132d81214cd448ab897d38b420d57103bb16a14cc117806928fb746061cbd7
+    prettier: 3.9.0
+  checksum: 10c0/67e187c5b23c4f43b6e5a53e4efce8edd20a4f5039dda2dbc5fe8a1a3ef2b092f9cc8bb3a58dcc76286d334a153982413e397aefcdea632956c2e3311f7c6d4d
   languageName: node
   linkType: hard
 
