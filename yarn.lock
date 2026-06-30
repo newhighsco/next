@@ -2533,17 +2533,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@commitlint/config-conventional@npm:21.1.0":
-  version: 21.1.0
-  resolution: "@commitlint/config-conventional@npm:21.1.0"
-  dependencies:
-    "@commitlint/types": "npm:^21.1.0"
-    conventional-changelog-conventionalcommits: "npm:^9.2.0"
-  checksum: 10c0/15cdf9c611976a29bef58fa1629d04979bde26ac09a65766c9e8350c48792fdc696970a6275e7c11658fa4cd4394e3d5012c78f0c5215b2fe91f9b678c8020d0
-  languageName: node
-  linkType: hard
-
-"@commitlint/config-conventional@npm:^21.2.0":
+"@commitlint/config-conventional@npm:21.2.0, @commitlint/config-conventional@npm:^21.2.0":
   version: 21.2.0
   resolution: "@commitlint/config-conventional@npm:21.2.0"
   dependencies:
@@ -2700,7 +2690,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@commitlint/types@npm:^21.1.0, @commitlint/types@npm:^21.2.0":
+"@commitlint/types@npm:^21.2.0":
   version: 21.2.0
   resolution: "@commitlint/types@npm:21.2.0"
   dependencies:
@@ -3535,15 +3525,15 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@newhighsco/commitlint-config@npm:1.3.2":
-  version: 1.3.2
-  resolution: "@newhighsco/commitlint-config@npm:1.3.2"
+"@newhighsco/commitlint-config@npm:1.3.3":
+  version: 1.3.3
+  resolution: "@newhighsco/commitlint-config@npm:1.3.3"
   dependencies:
-    "@commitlint/config-conventional": "npm:21.1.0"
+    "@commitlint/config-conventional": "npm:21.2.0"
   peerDependencies:
-    "@commitlint/cli": 21.1.0
+    "@commitlint/cli": 21.2.0
     husky: 9.1.7
-  checksum: 10c0/9edd7e574aa67ab52fd5ae31bcea012a89a06cea9c5f95971c89c5575555532a41caccc5c1ca6486b7ffd8197dd29746b8574a08cd42d21e2bbb522f5ea9bfe5
+  checksum: 10c0/d44c7221900ec0677c82b050640a1ccf37847f56cd81e2b528e38b1800bc8df787c3a8543a5140119d644a4547411074371b84f85664a84ec955ff8b383e2a79
   languageName: node
   linkType: hard
 
@@ -3606,7 +3596,7 @@ __metadata:
     "@babel/core": "npm:8.0.1"
     "@babel/preset-env": "npm:8.0.2"
     "@commitlint/cli": "npm:21.2.0"
-    "@newhighsco/commitlint-config": "npm:1.3.2"
+    "@newhighsco/commitlint-config": "npm:1.3.3"
     "@newhighsco/editor-config": "npm:1.2.0"
     "@newhighsco/eslint-config": "npm:7.1.16"
     "@newhighsco/prettier-config": "npm:2.3.11"
@@ -7033,15 +7023,6 @@ __metadata:
   dependencies:
     "@conventional-changelog/template": "npm:^1.2.0"
   checksum: 10c0/8a1bf93c8336846c934b16e601c07d7a7321772c81fefb877e70c9e8ba2400f0f8029f28417b708f2608faad2abf513027353db3234428abf540a0f5b8a7db5d
-  languageName: node
-  linkType: hard
-
-"conventional-changelog-conventionalcommits@npm:^9.2.0":
-  version: 9.3.1
-  resolution: "conventional-changelog-conventionalcommits@npm:9.3.1"
-  dependencies:
-    compare-func: "npm:^2.0.0"
-  checksum: 10c0/e3d0dfe5680899da3660a7fbc859de1a92dd9358dc497624c3582596173713a80dcc8236d844116a3ba8403350e244c007c0c7fa5796631aea19e464cc6c2f44
   languageName: node
   linkType: hard
 
