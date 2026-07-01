@@ -1,3 +1,5 @@
+## @newhighsco/next-plugin-svgr [3.0.173](https://github.com/newhighsco/next/compare/%40newhighsco%2Fnext-plugin-svgr%403.0.172...%40newhighsco%2Fnext-plugin-svgr%403.0.173) (2026-07-01)
+
 ## @newhighsco/next-plugin-svgr [3.0.172](https://github.com/newhighsco/next/compare/@newhighsco/next-plugin-svgr@3.0.171...@newhighsco/next-plugin-svgr@3.0.172) (2026-06-10)
 
 ### Bug Fixes
