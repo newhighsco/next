@@ -2836,15 +2836,15 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@eslint/json@npm:2.0.0":
-  version: 2.0.0
-  resolution: "@eslint/json@npm:2.0.0"
+"@eslint/json@npm:2.0.1":
+  version: 2.0.1
+  resolution: "@eslint/json@npm:2.0.1"
   dependencies:
     "@eslint/core": "npm:^1.2.1"
-    "@eslint/plugin-kit": "npm:^0.7.1"
+    "@eslint/plugin-kit": "npm:^0.7.2"
     "@humanwhocodes/momoa": "npm:^3.3.10"
     natural-compare: "npm:^1.4.0"
-  checksum: 10c0/b4b6dcc06dcc981cbc0e582d6126890f238d115ba876f5dccf95e907cafc8c4952d20ea236249d831e79f94d208602253a131cfeabd5d30e0181581fa4fc643e
+  checksum: 10c0/7dcf19d9dad8e74081a56987bde94579042811217d659fc5e13e87a67cdfd9a6c70e127dc797ddd925807d8e5377e97ce0f250639e29fbd4d427c6e8e5160044
   languageName: node
   linkType: hard
 
@@ -2855,7 +2855,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@eslint/plugin-kit@npm:^0.7.1, @eslint/plugin-kit@npm:^0.7.2":
+"@eslint/plugin-kit@npm:^0.7.2":
   version: 0.7.2
   resolution: "@eslint/plugin-kit@npm:0.7.2"
   dependencies:
@@ -3544,13 +3544,13 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@newhighsco/eslint-config@npm:7.1.16":
-  version: 7.1.16
-  resolution: "@newhighsco/eslint-config@npm:7.1.16"
+"@newhighsco/eslint-config@npm:7.1.17":
+  version: 7.1.17
+  resolution: "@newhighsco/eslint-config@npm:7.1.17"
   dependencies:
     "@eslint/compat": "npm:2.1.0"
     "@eslint/js": "npm:10.0.1"
-    "@eslint/json": "npm:2.0.0"
+    "@eslint/json": "npm:2.0.1"
     eslint-config-prettier: "npm:10.1.8"
     eslint-plugin-cypress: "npm:6.4.2"
     eslint-plugin-import: "npm:2.32.0"
@@ -3573,7 +3573,7 @@ __metadata:
       optional: true
     typescript:
       optional: true
-  checksum: 10c0/920ba20f9523709467d19dcb00abfce9a0e913885347496e2669a9a5f64a232552415da559b82cf4828456ff3867ed71b28a274c73c9c78811f04860100fa56d
+  checksum: 10c0/aaba4fc4ac9b388f09981d78b3d98f18e6dc9c1b3ab2943f0621ea075937dd970d0e4c4d3998c78c5ad8cb4a7aa7df97ef9db06bf46fbdeb9c0a2b878b097936
   languageName: node
   linkType: hard
 
@@ -3598,9 +3598,9 @@ __metadata:
     "@commitlint/cli": "npm:21.2.0"
     "@newhighsco/commitlint-config": "npm:1.3.3"
     "@newhighsco/editor-config": "npm:1.2.0"
-    "@newhighsco/eslint-config": "npm:7.1.16"
+    "@newhighsco/eslint-config": "npm:7.1.17"
     "@newhighsco/prettier-config": "npm:2.3.11"
-    "@newhighsco/release-config": "npm:1.5.1"
+    "@newhighsco/release-config": "npm:1.5.2"
     "@newhighsco/yarn-plugin-preset": "npm:1.1.4"
     "@qiwi/multi-semantic-release": "npm:7.1.2"
     concurrently: "npm:10.0.3"
@@ -3622,14 +3622,14 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@newhighsco/release-config@npm:1.5.1":
-  version: 1.5.1
-  resolution: "@newhighsco/release-config@npm:1.5.1"
+"@newhighsco/release-config@npm:1.5.2":
+  version: 1.5.2
+  resolution: "@newhighsco/release-config@npm:1.5.2"
   dependencies:
     "@semantic-release/changelog": "npm:6.0.3"
     "@semantic-release/commit-analyzer": "npm:13.0.1"
     "@semantic-release/git": "npm:10.0.1"
-    "@semantic-release/github": "npm:12.0.8"
+    "@semantic-release/github": "npm:12.0.9"
     "@semantic-release/npm": "npm:13.1.5"
     "@semantic-release/release-notes-generator": "npm:14.1.1"
   peerDependencies:
@@ -3638,7 +3638,7 @@ __metadata:
   peerDependenciesMeta:
     semantic-release-circleci-orb:
       optional: true
-  checksum: 10c0/5a7b23c3dc7c1f904d4ed5bf4c12c74f5f0ee02d1428ca0b98372bbf9ca3cd3e315ca53fd5f80ee70e6eedd33d3ff37b9713cd8014e664199b6f350d60e4ab52
+  checksum: 10c0/2334c3fa30e81a94991a86a5a7a56e054f422bb2aca65573ec5e5e0377b92392662cc9e26000363ff5b7c034204975967a0d4060d7c829132cda834a7fd890f4
   languageName: node
   linkType: hard
 
@@ -4568,9 +4568,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@semantic-release/github@npm:12.0.8, @semantic-release/github@npm:^12.0.0":
-  version: 12.0.8
-  resolution: "@semantic-release/github@npm:12.0.8"
+"@semantic-release/github@npm:12.0.9, @semantic-release/github@npm:^12.0.0":
+  version: 12.0.9
+  resolution: "@semantic-release/github@npm:12.0.9"
   dependencies:
     "@octokit/core": "npm:^7.0.0"
     "@octokit/plugin-paginate-rest": "npm:^14.0.0"
@@ -4591,7 +4591,7 @@ __metadata:
     url-join: "npm:^5.0.0"
   peerDependencies:
     semantic-release: ">=24.1.0"
-  checksum: 10c0/d2ad0385f840ea690a847b9c52dd80ef5ff528f6ec7d07b97448dbc522987e2effba9c0b5bc057fe989dc7c90735b0aaeacbdc4580cbdc03c4e30ffbe5da56c9
+  checksum: 10c0/1c273554b18213cd3d81a3c5c30d4f30321948ca54568eeaf496e1616cfe963880aa0bc7d1cd01b7b345d8c8ae550d9132b818832da7e40cc51ed1cc3572c60f
   languageName: node
   linkType: hard
 
