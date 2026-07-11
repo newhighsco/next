@@ -3609,7 +3609,7 @@ __metadata:
     jest: "npm:30.4.2"
     jest-junit: "npm:17.0.0"
     prettier: "npm:3.9.5"
-    semantic-release: "npm:25.0.5"
+    semantic-release: "npm:25.0.6"
   languageName: unknown
   linkType: soft
 
@@ -14051,9 +14051,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"semantic-release@npm:25.0.5":
-  version: 25.0.5
-  resolution: "semantic-release@npm:25.0.5"
+"semantic-release@npm:25.0.6":
+  version: 25.0.6
+  resolution: "semantic-release@npm:25.0.6"
   dependencies:
     "@semantic-release/commit-analyzer": "npm:^13.0.1"
     "@semantic-release/error": "npm:^4.0.0"
@@ -14085,7 +14085,7 @@ __metadata:
     yargs: "npm:^18.0.0"
   bin:
     semantic-release: bin/semantic-release.js
-  checksum: 10c0/54a119377fdcc8ea3b2acb96ad5d582b7f0caf7c2612a6c4a47b22fce47756a2d8c2f387d8e946f0ecbf178a723072d11237d837963bccc203d97e4e35853850
+  checksum: 10c0/dfb6fa617858310fedd29108543588fded0a6c80900ac95d40b54383e47342e34392a35bbe9288c433a34ab40ad7c5a076e7e2220aba1fd664e537c3d646a936
   languageName: node
   linkType: hard
 
