@@ -3544,9 +3544,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@newhighsco/eslint-config@npm:7.1.19":
-  version: 7.1.19
-  resolution: "@newhighsco/eslint-config@npm:7.1.19"
+"@newhighsco/eslint-config@npm:7.1.20":
+  version: 7.1.20
+  resolution: "@newhighsco/eslint-config@npm:7.1.20"
   dependencies:
     "@eslint/compat": "npm:2.1.0"
     "@eslint/js": "npm:10.0.1"
@@ -3573,7 +3573,7 @@ __metadata:
       optional: true
     typescript:
       optional: true
-  checksum: 10c0/15bfe35b12271de377885cc04165f4df9f75d734bdd9e95a305885a8d89a61e51d1fd788f5770af6b31f63665edfbacb97c7fa5f2cc89b4ed14fc2a38696511b
+  checksum: 10c0/2257e5a0a04518847b491cf190ea3fad9fbe879799ed57e48e9cf424561b86811aeca2c04934e2962a719d8104109498343970861443706df86fa5acd2289d53
   languageName: node
   linkType: hard
 
@@ -3598,9 +3598,9 @@ __metadata:
     "@commitlint/cli": "npm:21.2.1"
     "@newhighsco/commitlint-config": "npm:1.3.4"
     "@newhighsco/editor-config": "npm:1.2.0"
-    "@newhighsco/eslint-config": "npm:7.1.19"
+    "@newhighsco/eslint-config": "npm:7.1.20"
     "@newhighsco/prettier-config": "npm:2.3.12"
-    "@newhighsco/release-config": "npm:1.5.2"
+    "@newhighsco/release-config": "npm:1.5.3"
     "@newhighsco/yarn-plugin-preset": "npm:1.1.4"
     "@qiwi/multi-semantic-release": "npm:7.1.2"
     concurrently: "npm:10.0.3"
@@ -3622,9 +3622,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@newhighsco/release-config@npm:1.5.2":
-  version: 1.5.2
-  resolution: "@newhighsco/release-config@npm:1.5.2"
+"@newhighsco/release-config@npm:1.5.3":
+  version: 1.5.3
+  resolution: "@newhighsco/release-config@npm:1.5.3"
   dependencies:
     "@semantic-release/changelog": "npm:6.0.3"
     "@semantic-release/commit-analyzer": "npm:13.0.1"
@@ -3633,12 +3633,12 @@ __metadata:
     "@semantic-release/npm": "npm:13.1.5"
     "@semantic-release/release-notes-generator": "npm:14.1.1"
   peerDependencies:
-    semantic-release: 25.0.5
+    semantic-release: 25.0.6
     semantic-release-circleci-orb: 1.1.1
   peerDependenciesMeta:
     semantic-release-circleci-orb:
       optional: true
-  checksum: 10c0/2334c3fa30e81a94991a86a5a7a56e054f422bb2aca65573ec5e5e0377b92392662cc9e26000363ff5b7c034204975967a0d4060d7c829132cda834a7fd890f4
+  checksum: 10c0/fd0c4cd4d8023c304198963559f3cb3ca3ca07dc360170625fb9fe2632bdb58ece20858fba786367bd0dfe966f9e330c549ea9a4e6820f9455c068b371dfe948
   languageName: node
   linkType: hard
 
