@@ -3600,7 +3600,7 @@ __metadata:
     "@newhighsco/editor-config": "npm:1.2.0"
     "@newhighsco/eslint-config": "npm:7.1.26"
     "@newhighsco/prettier-config": "npm:2.3.13"
-    "@newhighsco/release-config": "npm:1.5.7"
+    "@newhighsco/release-config": "npm:1.5.8"
     "@newhighsco/yarn-plugin-preset": "npm:1.1.4"
     "@qiwi/multi-semantic-release": "npm:7.1.2"
     concurrently: "npm:10.0.3"
@@ -3622,9 +3622,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@newhighsco/release-config@npm:1.5.7":
-  version: 1.5.7
-  resolution: "@newhighsco/release-config@npm:1.5.7"
+"@newhighsco/release-config@npm:1.5.8":
+  version: 1.5.8
+  resolution: "@newhighsco/release-config@npm:1.5.8"
   dependencies:
     "@semantic-release/changelog": "npm:7.0.0"
     "@semantic-release/commit-analyzer": "npm:13.0.1"
@@ -3632,14 +3632,14 @@ __metadata:
     "@semantic-release/github": "npm:12.0.9"
     "@semantic-release/npm": "npm:13.1.5"
     "@semantic-release/release-notes-generator": "npm:14.1.1"
-    conventional-changelog-conventionalcommits: "npm:10.2.1"
+    conventional-changelog-conventionalcommits: "npm:9.3.1"
   peerDependencies:
     semantic-release: 25.0.8
     semantic-release-circleci-orb: 1.1.1
   peerDependenciesMeta:
     semantic-release-circleci-orb:
       optional: true
-  checksum: 10c0/40711d8c27ad3f944d535b438ed18fa8f2f3205a94382a5fb4fc322c06455e2a2fdab3b7eec1840a1cc0a9a7534ffbba141e303ab12c416cff55bce2b2fcf748
+  checksum: 10c0/0ce05117363fbc1ee053271dfd8baf27a2f07c0ec50873a07874be859833036e763369e52dd438e1f72bfc9ea47ba4fee84661b8029617cf15267812a0a15c1d
   languageName: node
   linkType: hard
 
@@ -7010,7 +7010,16 @@ __metadata:
   languageName: node
   linkType: hard
 
-"conventional-changelog-conventionalcommits@npm:10.2.1, conventional-changelog-conventionalcommits@npm:^10.0.0":
+"conventional-changelog-conventionalcommits@npm:9.3.1":
+  version: 9.3.1
+  resolution: "conventional-changelog-conventionalcommits@npm:9.3.1"
+  dependencies:
+    compare-func: "npm:^2.0.0"
+  checksum: 10c0/e3d0dfe5680899da3660a7fbc859de1a92dd9358dc497624c3582596173713a80dcc8236d844116a3ba8403350e244c007c0c7fa5796631aea19e464cc6c2f44
+  languageName: node
+  linkType: hard
+
+"conventional-changelog-conventionalcommits@npm:^10.0.0":
   version: 10.2.1
   resolution: "conventional-changelog-conventionalcommits@npm:10.2.1"
   dependencies:
