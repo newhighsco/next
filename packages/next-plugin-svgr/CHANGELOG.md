@@ -1,3 +1,5 @@
+## @newhighsco/next-plugin-svgr [3.0.175](https://github.com/newhighsco/next/compare/%40newhighsco%2Fnext-plugin-svgr%403.0.174...%40newhighsco%2Fnext-plugin-svgr%403.0.175) (2026-07-25)
+
 ## @newhighsco/next-plugin-svgr [3.0.174](https://github.com/newhighsco/next/compare/%40newhighsco%2Fnext-plugin-svgr%403.0.173...%40newhighsco%2Fnext-plugin-svgr%403.0.174) (2026-07-21)
 
 ## @newhighsco/next-plugin-svgr [3.0.173](https://github.com/newhighsco/next/compare/%40newhighsco%2Fnext-plugin-svgr%403.0.172...%40newhighsco%2Fnext-plugin-svgr%403.0.173) (2026-07-01)
