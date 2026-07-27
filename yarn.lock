@@ -3585,7 +3585,7 @@ __metadata:
     file-loader: "npm:6.2.0"
     url-loader: "npm:4.1.1"
   peerDependencies:
-    next: 16.2.12
+    next: ^16
   languageName: unknown
   linkType: soft
 
