@@ -16,7 +16,7 @@
   "bugs": {
     "url": "https://github.com/newhighsco/next/issues"
   },
-  "packageManager": "yarn@4.17.1",
+  "packageManager": "yarn@4.18.0",
   "scripts": {
     "prepare": "husky",
     "start": "yarn workspace example start",
