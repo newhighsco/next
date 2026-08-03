@@ -3544,9 +3544,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@newhighsco/eslint-config@npm:7.1.29":
-  version: 7.1.29
-  resolution: "@newhighsco/eslint-config@npm:7.1.29"
+"@newhighsco/eslint-config@npm:7.1.30":
+  version: 7.1.30
+  resolution: "@newhighsco/eslint-config@npm:7.1.30"
   dependencies:
     "@eslint/compat": "npm:2.1.0"
     "@eslint/js": "npm:10.0.1"
@@ -3559,7 +3559,7 @@ __metadata:
     eslint-plugin-react: "npm:7.37.5"
     eslint-plugin-react-hooks: "npm:7.1.1"
     eslint-plugin-simple-import-sort: "npm:14.0.0"
-    eslint-plugin-storybook: "npm:10.5.5"
+    eslint-plugin-storybook: "npm:10.5.6"
     eslint-plugin-testing-library: "npm:7.16.2"
     find-up: "npm:8.0.0"
     typescript-eslint: "npm:8.65.0"
@@ -3573,7 +3573,7 @@ __metadata:
       optional: true
     typescript:
       optional: true
-  checksum: 10c0/2e3ea1ddde3e4db8087edd3db371e46b3b43806275c8419d2b8fcda87dfbf860540d4f8a6bd2d3ad2583005b686e9c7f939c27f515eda59f6f6bd7a20f7a2f08
+  checksum: 10c0/cc59f393b0e6097eca2c6ccdcd619993cfa5e5fe884eca325393bcd57042b3a11b3a49e342c34fc52cd9bd8567855d7a5271a5a45e7b4b8818cc9e2e31ef08ef
   languageName: node
   linkType: hard
 
@@ -3598,7 +3598,7 @@ __metadata:
     "@commitlint/cli": "npm:21.2.1"
     "@newhighsco/commitlint-config": "npm:1.3.5"
     "@newhighsco/editor-config": "npm:1.2.0"
-    "@newhighsco/eslint-config": "npm:7.1.29"
+    "@newhighsco/eslint-config": "npm:7.1.30"
     "@newhighsco/prettier-config": "npm:2.3.14"
     "@newhighsco/release-config": "npm:1.5.10"
     "@newhighsco/yarn-plugin-preset": "npm:1.1.4"
@@ -8117,16 +8117,16 @@ __metadata:
   languageName: node
   linkType: hard
 
-"eslint-plugin-storybook@npm:10.5.5":
-  version: 10.5.5
-  resolution: "eslint-plugin-storybook@npm:10.5.5"
+"eslint-plugin-storybook@npm:10.5.6":
+  version: 10.5.6
+  resolution: "eslint-plugin-storybook@npm:10.5.6"
   dependencies:
     "@typescript-eslint/types": "npm:^8.60.0"
     "@typescript-eslint/utils": "npm:^8.60.0"
   peerDependencies:
     eslint: ">=8"
-    storybook: ^10.5.5
-  checksum: 10c0/edd182b0e8ba0ca132b929dd3a9f80da32523b536e647f7b628ba546ccba97d2625cd7c275dde04845410f92c678bcacde4d0d7e1b406bcd7373877926bb1dbf
+    storybook: ^10.5.6
+  checksum: 10c0/2d14ecd5bb7d480a1160392fe3868cb78f485fada33eef66ef7d24c90cc34b4941aadc5b0e6ab5fa3559ade9c679a3ce86c2d02dcaf2cc6828d602aec32d8c01
   languageName: node
   linkType: hard
 
