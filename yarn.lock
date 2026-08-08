@@ -3562,9 +3562,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@newhighsco/eslint-config@npm:7.1.33":
-  version: 7.1.33
-  resolution: "@newhighsco/eslint-config@npm:7.1.33"
+"@newhighsco/eslint-config@npm:7.1.34":
+  version: 7.1.34
+  resolution: "@newhighsco/eslint-config@npm:7.1.34"
   dependencies:
     "@eslint/compat": "npm:2.1.0"
     "@eslint/js": "npm:10.0.1"
@@ -3591,7 +3591,7 @@ __metadata:
       optional: true
     typescript:
       optional: true
-  checksum: 10c0/7f69908f2bd2516f4e1c18f8745c5b0def330e5a5b5430b38edaa6afe5e5a745702de7f9a264ca422714f4626a0aa73e0f4a9134b9a2421a1bb35bd8910374cf
+  checksum: 10c0/13b7f309c7137830bdf9b17ac7e3a759e9bb6bc0c03f31f5de8abd166f62bb22d42bbcdc6bb7c9d0b6f60282b18421e49d171930a9ceb74157500b79119c7ef4
   languageName: node
   linkType: hard
 
@@ -3616,7 +3616,7 @@ __metadata:
     "@commitlint/cli": "npm:21.2.1"
     "@newhighsco/commitlint-config": "npm:1.3.5"
     "@newhighsco/editor-config": "npm:1.2.0"
-    "@newhighsco/eslint-config": "npm:7.1.33"
+    "@newhighsco/eslint-config": "npm:7.1.34"
     "@newhighsco/prettier-config": "npm:2.3.14"
     "@newhighsco/release-config": "npm:1.5.10"
     "@newhighsco/yarn-plugin-preset": "npm:1.1.4"
