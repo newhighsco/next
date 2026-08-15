@@ -40,7 +40,7 @@
     "@newhighsco/release-config": "1.5.10",
     "@newhighsco/yarn-plugin-preset": "1.1.4",
     "@qiwi/multi-semantic-release": "7.1.2",
-    "concurrently": "10.0.4",
+    "concurrently": "10.0.5",
     "eslint": "10.8.1",
     "husky": "9.1.7",
     "jest": "30.4.2",
